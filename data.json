@@ -428,6 +428,23 @@
       "stockCount": null
     },
     {
+      "id": "578425777",
+      "title": "需换购：五粮液 龙腾鸿运 52°浓香型白酒 500ml",
+      "priceText": "68.1元",
+      "price": 68.1,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "07-28 18:45",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/221076/34/41101/147916/665eabfaF79c53048/29b6d9826372f114.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578425777&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
       "id": "578419150",
       "title": "天湖啤酒 10度全麦白啤 500ml*24罐",
       "priceText": "54.1元",
@@ -755,7 +772,7 @@
       "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-28T18:38:42.741Z",
+  "checkedAt": "2026-07-28T21:18:08.816Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
