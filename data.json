@@ -1,25 +1,6 @@
 {
   "deals": [
     {
-      "id": "577776955",
-      "title": "可蜜瑞 凤梨味莫斯卡托起泡甜白葡萄酒 750ml（需从试用频道下单）",
-      "priceText": "19.9元",
-      "price": 19.9,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "07-28 17:00",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/401219/19/18088/105775/69b38db6F37c4e741/0083320320deec94.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=577776955&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": true,
-      "requirements": [
-        "需进入试用入口"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "577753815",
       "title": "圣菲特 10°P 全麦精酿小麦啤酒 500mL×2",
       "priceText": "4.6元",
@@ -772,7 +753,7 @@
       "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-28T21:18:08.816Z",
+  "checkedAt": "2026-07-28T22:28:07.057Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
