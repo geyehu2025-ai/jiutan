@@ -48,5 +48,5 @@ try{old=JSON.parse(await readFile("data.json","utf8"))}catch{}
 const comparable=x=>JSON.stringify((x.deals||[]).map(({id,title,priceText,platform,mall,published,image,sourceUrl,isZero,isTrial,requirements,availability,availabilityLabel,stockCount})=>({id,title,priceText,platform,mall,published,image,sourceUrl,isZero,isTrial,requirements,availability,availabilityLabel,stockCount})));
 const changed=comparable(old)!==comparable({deals});
 const output={deals,checkedAt:new Date().toISOString(),pagesRead:settled.filter(x=>x.status==="fulfilled").length,errors:settled.filter(x=>x.status==="rejected").length,source:"公开实时优惠流与平台落地页"};
-await writeFile("data.json",JSON.stringify(output,null,2)+"\n","utf8");
+if (changed) await writeFile("data.json",JSON.stringify(output,null,2)+"\n","utf8");
 console.log(JSON.stringify({deals:deals.length,changed,pagesRead:output.pagesRead,errors:output.errors}));
