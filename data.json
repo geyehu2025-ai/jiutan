@@ -43,7 +43,7 @@
       "price": 12.99,
       "platform": "天猫",
       "mall": "天猫旗舰店",
-      "published": "07-28 17:17",
+      "published": "07-28 17:19",
       "image": "https://img.alicdn.com/bao/uploaded/O1CN017uRGyk1gvwUDV9NB1_!!6000000004205-0-yinhe.jpg",
       "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578411744&f=weixinlist&mmb=mmbmobile",
       "isZero": false,
@@ -422,25 +422,6 @@
       "stockCount": null
     },
     {
-      "id": "578382100",
-      "title": "金沙河原味鸡蛋挂面 独立包装家庭装 3包5.4斤",
-      "priceText": "14.3元+1.19元淘金币",
-      "price": 14.3,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-28 15:07",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01JOWGfm1ruzYXsrlbx_!!6000000005692-2-yinhe.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578382100&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "578381709",
       "title": "泸州老窖 头曲 52度 浓香型白酒 500ml×6瓶 整箱+凑单",
       "priceText": "320.41元+27.96元淘金币（需凑单）",
@@ -492,9 +473,9 @@
       "requirements": [
         "地区库存不同"
       ],
-      "availability": "out",
-      "availabilityLabel": "来源报告无货/结束",
-      "stockCount": 0
+      "availability": "regional",
+      "availabilityLabel": "部分地区无货，需按收货地核验",
+      "stockCount": null
     },
     {
       "id": "578372412",
@@ -831,23 +812,6 @@
       "stockCount": null
     },
     {
-      "id": "577347343",
-      "title": "闭眼买：金沙河 中筋面粉 5斤 家用包子馒头",
-      "priceText": "9.9元（最低7.9元）",
-      "price": 9.9,
-      "platform": "京东",
-      "mall": "京东商城",
-      "published": "07-28 13:22",
-      "image": "https://zhekou-background.manmanbuy.com/image/baoliao/f034fa5ae15834360d2c31de7cb8c0cb/20260718201828_1bb364de-bd83-43e2-b962-0993b3113a00.jpg?x-oss-process=image%2Fformat%2Cjpg%2Fquality%2Cq_80",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=577347343&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "577072805",
       "title": "古井贡酒 年份原浆 古5 50度 500ml×2瓶 浓香型白酒",
       "priceText": "185.4元+18.4元淘金币(淘金币界面下单)",
@@ -943,7 +907,7 @@
       "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-28T09:20:18.540Z",
+  "checkedAt": "2026-07-28T09:26:19.880Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
