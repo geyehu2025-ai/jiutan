@@ -1,7 +1,7 @@
 import { writeFile, readFile } from "node:fs/promises";
 
 const FEED = "https://m.tuihaowu.com/cuxiao.aspx";
-const ALCOHOL = /白酒|啤酒|葡萄酒|红酒|黄酒|威士忌|茅台|五粮液|汾酒|泸州老窖|郎酒|习酒|剑南春|洋河|青岛|雪花|百威|燕京|乌苏|西凤|金沙|水井坊|古井贡|今世缘|舍得|国台|酒鬼酒/i;
+const ALCOHOL = /白酒|啤酒|葡萄酒|红酒|黄酒|威士忌|茅台|五粮液|汾酒|泸州老窖|郎酒|习酒|剑南春|洋河|青岛|雪花|百威|燕京|乌苏|西凤|水井坊|古井贡|今世缘|舍得|国台|酒鬼酒/i;
 
 function decode(value) {
   return value.replace(/<[^>]+>/g, "").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/\s+/g, " ").trim();
@@ -22,9 +22,9 @@ function priceOf(text) {
 }
 function stockOf(text) {
   const m=text.match(/(?:仅剩|剩余|库存)\s*(\d+)\s*(?:件|份|瓶|箱)?/);
+  if (/限地区|地区需自测|部分地区/.test(text)) return {availability:"regional",availabilityLabel:"部分地区无货，需按收货地核验",stockCount:null};
   if (/无货|售罄|已抢光|已结束|已下架/.test(text)) return {availability:"out",availabilityLabel:"来源报告无货/结束",stockCount:0};
   if (m) return {availability:Number(m[1])>0?"active":"out",availabilityLabel:"来源公开了剩余数量",stockCount:Number(m[1])};
-  if (/限地区|地区需自测|部分地区/.test(text)) return {availability:"regional",availabilityLabel:"地区库存不同，需打开核验",stockCount:null};
   return {availability:"active",availabilityLabel:"线报仍活跃；平台未公开精确数量",stockCount:null};
 }
 async function readPage(page) {
@@ -38,6 +38,8 @@ function parse(html) {
 }
 
 const settled=await Promise.allSettled(Array.from({length:12},(_,i)=>readPage(i+1)));
+const successfulPages=settled.filter(x=>x.status==="fulfilled").length;
+if(successfulPages<6)throw new Error(`Only ${successfulPages}/12 source pages succeeded; refusing to replace the last good snapshot.`);
 const unique=new Map();
 for(const entry of settled)if(entry.status==="fulfilled")for(const deal of parse(entry.value))unique.set(deal.id,deal);
 const deals=[...unique.values()].sort((a,b)=>(a.isZero!==b.isZero?(a.isZero?-1:1):a.isTrial!==b.isTrial?(a.isTrial?-1:1):Number(b.id)-Number(a.id))).slice(0,60);
@@ -47,6 +49,6 @@ let old={deals:[]};
 try{old=JSON.parse(await readFile("data.json","utf8"))}catch{}
 const comparable=x=>JSON.stringify((x.deals||[]).map(({id,title,priceText,platform,mall,published,image,sourceUrl,isZero,isTrial,requirements,availability,availabilityLabel,stockCount})=>({id,title,priceText,platform,mall,published,image,sourceUrl,isZero,isTrial,requirements,availability,availabilityLabel,stockCount})));
 const changed=comparable(old)!==comparable({deals});
-const output={deals,checkedAt:new Date().toISOString(),pagesRead:settled.filter(x=>x.status==="fulfilled").length,errors:settled.filter(x=>x.status==="rejected").length,source:"公开实时优惠流与平台落地页"};
+const output={deals,checkedAt:new Date().toISOString(),pagesRead:successfulPages,errors:settled.filter(x=>x.status==="rejected").length,source:"公开实时优惠流与平台落地页"};
 if (changed) await writeFile("data.json",JSON.stringify(output,null,2)+"\n","utf8");
 console.log(JSON.stringify({deals:deals.length,changed,pagesRead:output.pagesRead,errors:output.errors}));
