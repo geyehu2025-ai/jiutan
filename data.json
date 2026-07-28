@@ -753,28 +753,9 @@
       "availability": "active",
       "availabilityLabel": "线报仍活跃；平台未公开精确数量",
       "stockCount": null
-    },
-    {
-      "id": "576132880",
-      "title": "燕京蓝听11°P拉格啤酒330ml×24听",
-      "priceText": "35.68元下单四件凑单一件",
-      "price": 35.68,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "07-28 17:00",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/204921/31/22796/464145/6423fcb8Fed39b8fa/01729b8074a8436c.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=576132880&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需凑单"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-28T17:05:18.712Z",
+  "checkedAt": "2026-07-28T18:38:42.741Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
