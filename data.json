@@ -500,25 +500,6 @@
       "stockCount": null
     },
     {
-      "id": "578409273",
-      "title": "再降价、百威黑金美式拉格啤酒 600ml×12瓶 整箱 13度",
-      "priceText": "53.65元+1.59元淘金币",
-      "price": 53.65,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-28 17:07",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01cH0IRp1gasBdKy8Aq_!!6000000004159-2-yinhe.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578409273&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "577941120",
       "title": "康师傅 特别特 0油炸面饼 泡面 烧汁雪花牛肉面",
       "priceText": "7.52元+1.78元淘金币",
@@ -753,7 +734,7 @@
       "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-28T22:28:07.057Z",
+  "checkedAt": "2026-07-28T23:31:15.369Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
