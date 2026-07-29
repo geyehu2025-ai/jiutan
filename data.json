@@ -35,6 +35,78 @@
       "stockCount": null
     },
     {
+      "id": "578812849",
+      "title": "尖庄 高光特渠版 绵柔白酒 52度 整箱 500ml*6瓶",
+      "priceText": "274.25元+4.47元淘金币",
+      "price": 274.25,
+      "platform": "天猫",
+      "mall": "天猫旗舰店",
+      "published": "07-30 06:53",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01UUMrmI1ShpTIuENs4_!!6000000002279-0-yinhe.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578812849&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币"
+      ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578811879",
+      "title": "迷失海岸 黑八世涛啤酒 355ml*6瓶",
+      "priceText": "58.9元",
+      "price": 58.9,
+      "platform": "天猫",
+      "mall": "天猫旗舰店",
+      "published": "07-30 06:47",
+      "image": "https://img.alicdn.com/i1/2208860460169/O1CN014X9zcP1D7RY9QGbmy_!!2208860460169.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578811879&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578811648",
+      "title": "西凤白酒 20年 45/52度 礼盒装 2瓶",
+      "priceText": "258元+65元淘金币",
+      "price": 258,
+      "platform": "天猫",
+      "mall": "天猫旗舰店",
+      "published": "07-30 06:45",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN015y4T9U1oRjMo8bY0j_!!6000000005222-0-yinhe.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578811648&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币"
+      ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578810469",
+      "title": "古井贡酒 年份原浆 古5 礼盒浓香型白酒 50度 500mL*2瓶",
+      "priceText": "193.4元",
+      "price": 193.4,
+      "platform": "天猫",
+      "mall": "天猫商城",
+      "published": "07-30 06:35",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01btBqVM1u712hn7iLp_!!6000000005989-0-yinhe.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578810469&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
       "id": "578750572",
       "title": "雪花啤酒 纯9 9度拉格啤酒 整箱",
       "priceText": "28.85元（需凑单）（超级补贴频道下单）",
@@ -761,25 +833,6 @@
       "stockCount": null
     },
     {
-      "id": "577105080",
-      "title": "哈尔滨啤酒 醇爽啤酒 330ml×24听 冰爽哈啤9度",
-      "priceText": "24.17元（需凑单）",
-      "price": 24.17,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:54",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01Kzaps727iCJC8uNcp_!!6000000007830-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=577105080&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需凑单"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "576642587",
       "title": "燕大师 德式白啤酒 500mL×12罐 原浆醇厚 整箱",
       "priceText": "29.78元",
@@ -795,28 +848,9 @@
       "availability": "active",
       "availabilityLabel": "线报仍活跃；平台未公开精确数量",
       "stockCount": null
-    },
-    {
-      "id": "576316921",
-      "title": "天湖 9度原浆拉格啤酒 500ml×12听",
-      "priceText": "23.1元+2.78元淘金币",
-      "price": 23.1,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:54",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN010abyNx21spfgnHrzi_!!6000000007041-2-yinhe.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=576316921&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-29T22:31:10.758Z",
+  "checkedAt": "2026-07-29T23:35:12.425Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
