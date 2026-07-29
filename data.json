@@ -35,6 +35,100 @@
       "stockCount": null
     },
     {
+      "id": "578750572",
+      "title": "雪花啤酒 纯9 9度拉格啤酒 整箱",
+      "priceText": "28.85元（需凑单）（超级补贴频道下单）",
+      "price": 28.85,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "07-30 00:27",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01fHSBoq1YgoG1EeHnG_!!6000000003089-2-yinhe.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578750572&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [
+        "需凑单"
+      ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578744143",
+      "title": "泸州老窖特曲晶彩 52度500ml 浓香型白酒+凑单",
+      "priceText": "150.84元(淘金币界面加购，凑单)+26.33元淘金币",
+      "price": 150.84,
+      "platform": "天猫",
+      "mall": "天猫商城",
+      "published": "07-29 23:59",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01jwrrwy1xX4XrIEc1h_!!6000000006452-0-yinhe.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578744143&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币",
+        "需凑单"
+      ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578743115",
+      "title": "贵州习酒 窖藏1988 白酒 53度 500ml×2瓶",
+      "priceText": "622元",
+      "price": 622,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "07-29 23:53",
+      "image": "https://img.alicdn.com/i1/725677994/O1CN01ZWmKxA28vJG0MMX3Q_!!725677994.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578743115&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578741656",
+      "title": "泸州老窖特曲晶彩 52度 500ml×2瓶 浓香型白酒",
+      "priceText": "311.03元+44.24元淘金币",
+      "price": 311.03,
+      "platform": "天猫",
+      "mall": "天猫商城",
+      "published": "07-29 23:45",
+      "image": "https://img.alicdn.com/i1/3937219703/O1CN01nL4gEw2LY29Szr3QZ_!!3937219703-0-C2M.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578741656&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币"
+      ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578739221",
+      "title": "山西汾酒 53度 黄盖玻汾 475ml×6瓶 清香型白酒",
+      "priceText": "209.27元(淘金币界面下单)+41.33元淘金币",
+      "price": 209.27,
+      "platform": "淘宝",
+      "mall": "淘宝",
+      "published": "07-29 23:29",
+      "image": "https://img.alicdn.com/i4/3937219703/O1CN01bRoPme2LY2BDPmQQq_!!3937219703-0-C2M.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578739221&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币"
+      ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
       "id": "578738380",
       "title": "再降价：洋河海之蓝42度绵柔浓香白酒礼盒装 480ml×2",
       "priceText": "202元(淘金币界面下单)+28元淘金币",
@@ -302,6 +396,23 @@
       "stockCount": null
     },
     {
+      "id": "578693077",
+      "title": "谷小酒 S50 52° 浓香型白酒 500ml",
+      "priceText": "10.5元",
+      "price": 10.5,
+      "platform": "京东",
+      "mall": "京东商城",
+      "published": "07-29 19:41",
+      "image": "https://img14.360buyimg.com/pop/jfs/t20280915/332249/14/14040/48593/68c943cbF0752b60b/7c3c25a4f8c9b7bb.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578693077&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
       "id": "578692098",
       "title": "白熊+玫瑰+接骨木 精酿啤酒组合装330ml*3瓶",
       "priceText": "28.67元+4.48元淘金币",
@@ -519,121 +630,6 @@
       "stockCount": null
     },
     {
-      "id": "578659720",
-      "title": "郎酒 红花郎(15) 酱香型白酒 53度 500ml×2",
-      "priceText": "607.21元(淘金币界面下单)+62.99元淘金币",
-      "price": 607.21,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:53",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01sMMRSK1EA1tzFM3ft_!!6000000000310-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578659720&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
-      "id": "578659296",
-      "title": "茅台赖茅传承蓝 53度酱香型白酒 500mL 单瓶装+凑单",
-      "priceText": "243.7元（可低至233.7元，淘金币界面加购，凑单）+41.76元淘金币",
-      "price": 243.7,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:51",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01CY8cQN1OH26ppLoh2_!!6000000001679-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578659296&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币",
-        "需凑单"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
-      "id": "578657905",
-      "title": "珠江啤酒 菠萝啤味饮料 330mL×12罐 无酒精果啤",
-      "priceText": "15.4元+1.96元淘金币",
-      "price": 15.4,
-      "platform": "天猫",
-      "mall": "天猫旗舰店",
-      "published": "07-29 16:43",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN0114QYJs1nPbmDUFjGh_!!6000000005082-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578657905&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
-      "id": "578657635",
-      "title": "燕京啤酒 原酿12度白啤 小黑金 300ml×12瓶",
-      "priceText": "39.95元+4.45元淘金币（需首购）",
-      "price": 39.95,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:43",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01jBYL6i1pIOrHlFnnI_!!6000000005337-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578657635&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币",
-        "限首购"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
-      "id": "578657468",
-      "title": "88VIP：洋河梦之蓝乐享版 52度 500ml 绵柔浓香白酒",
-      "priceText": "270.19元+55.88元淘金币",
-      "price": 270.19,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:41",
-      "image": "https://img.alicdn.com/i1/725677994/O1CN01DAJ9Mi28vJIJ0PqT9_!!725677994.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578657468&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需 88VIP",
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
-      "id": "578656272",
-      "title": "哈尔滨啤酒 醇爽 500mL×18罐 整箱装",
-      "priceText": "34.07元/件（共102.2元）",
-      "price": 34.07,
-      "platform": "京东",
-      "mall": "京东商城",
-      "published": "07-29 16:50",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/249234/29/27607/139946/6752cb29F40233155/6e3850bfcd7dc536.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578656272&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "578344710",
       "title": "泸州老窖特曲 花开富贵礼盒 52度500ml×2瓶",
       "priceText": "447.96元+37.44元淘金币",
@@ -699,7 +695,7 @@
       "price": 183.48,
       "platform": "天猫超市",
       "mall": "天猫超市",
-      "published": "07-29 21:19",
+      "published": "07-30 00:30",
       "image": "https://img.alicdn.com/bao/uploaded/O1CN017NqJyA1rwMiOZm6IX_!!6000000005695-0-yinhe.jpg",
       "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578076182&f=weixinlist&mmb=mmbmobile",
       "isZero": false,
@@ -825,23 +821,6 @@
       "stockCount": null
     },
     {
-      "id": "577549544",
-      "title": "闭眼买：国台臻钻 酱香型白酒 礼盒装 53度 500mL 4瓶",
-      "priceText": "619元",
-      "price": 619,
-      "platform": "京东",
-      "mall": "京东商城",
-      "published": "07-29 16:52",
-      "image": "https://zhekou-background.manmanbuy.com/image/baoliao/f7f5115f07edfc15d1aa85d4669577a0/20260717233206_e1609d85-e184-4fba-8d96-2b061af06386.jpg?x-oss-process=image%2Fformat%2Cjpg%2Fquality%2Cq_80",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=577549544&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "577105080",
       "title": "哈尔滨啤酒 醇爽啤酒 330ml×24听 冰爽哈啤9度",
       "priceText": "24.17元（需凑单）",
@@ -916,7 +895,7 @@
       "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-29T15:30:26.312Z",
+  "checkedAt": "2026-07-29T16:51:34.094Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
