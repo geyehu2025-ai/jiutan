@@ -723,25 +723,6 @@
       "stockCount": null
     },
     {
-      "id": "578066654",
-      "title": "哈尔滨啤酒 醇爽经典9度拉格 500ml×18听 礼盒装",
-      "priceText": "26.55元（需凑单）",
-      "price": 26.55,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:54",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01mSUgj01YOwlsutAcg_!!6000000003050-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578066654&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需凑单"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "578065221",
       "title": "汾酒 蓝汾酒 53度 475mL×2瓶 礼盒装",
       "priceText": "169.66元+21.42元淘金币",
@@ -751,25 +732,6 @@
       "published": "07-29 16:54",
       "image": "https://img.alicdn.com/bao/uploaded/i4/2466245383/O1CN01ZVjdzV1pdSzQYiyng_!!2-item_pic.png",
       "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578065221&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
-      "id": "578036920",
-      "title": "泸州老窖 特曲60版 52度 浓香型白酒 230ml (2021)",
-      "priceText": "182.8元+15.45元淘金币",
-      "price": 182.8,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:54",
-      "image": "https://img.alicdn.com/i2/6000000003004/O1CN01YPFxrk1Y3sw8OCsNp_!!6000000003004-2-at.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578036920&f=weixinlist&mmb=mmbmobile",
       "isZero": false,
       "isTrial": false,
       "requirements": [
@@ -854,7 +816,7 @@
       "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-29T19:34:35.481Z",
+  "checkedAt": "2026-07-29T22:31:10.758Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
