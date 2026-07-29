@@ -559,6 +559,23 @@
       "stockCount": null
     },
     {
+      "id": "578674788",
+      "title": "青岛啤酒 全麦白啤 500mL×12瓶 整箱装 原麦汁浓度10°P 赠酒杯",
+      "priceText": "64.31元/件（共128.62元）",
+      "price": 64.31,
+      "platform": "京东",
+      "mall": "京东商城",
+      "published": "07-29 18:57",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/228998/20/33590/85361/675b9bdbF7a4c4fcf/3b0d036c3b1b9a6e.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578674788&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
       "id": "578672604",
       "title": "Asahi朝日超爽啤酒 500ml*12 组合装",
       "priceText": "58.81元/件（共117.62元）",
@@ -763,26 +780,6 @@
       "stockCount": null
     },
     {
-      "id": "577925897",
-      "title": "88VIP: 郎酒 顺品郎 红顺兼香型白酒 45度 488ml×6瓶",
-      "priceText": "179.88元（6瓶）+25.34元淘金币",
-      "price": 179.88,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:54",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01drzzU71lqyMcZra5p_!!6000000004871-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=577925897&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需 88VIP",
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "577871001",
       "title": "再降价：罗斯福精酿修道士啤酒 6号/8号/10号 330ML 6瓶",
       "priceText": "77.82元+10.47元淘金币",
@@ -855,28 +852,9 @@
       "availability": "active",
       "availabilityLabel": "线报仍活跃；平台未公开精确数量",
       "stockCount": null
-    },
-    {
-      "id": "576004617",
-      "title": "哈尔滨啤酒 哈啤醇爽9度 330ml×24听×2箱",
-      "priceText": "54.62元+5.18元淘金币",
-      "price": 54.62,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 16:54",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01qNPoL01iazIr5dB8H_!!6000000004430-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=576004617&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-29T18:00:02.548Z",
+  "checkedAt": "2026-07-29T19:34:35.481Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
