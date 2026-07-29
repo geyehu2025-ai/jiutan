@@ -1,18 +1,56 @@
 {
   "deals": [
     {
-      "id": "577753815",
-      "title": "圣菲特 10°P 全麦精酿小麦啤酒 500mL×2",
-      "priceText": "4.6元",
-      "price": 4.6,
-      "platform": "京东",
-      "mall": "京东商城",
-      "published": "07-28 17:50",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/436667/12/1885/408781/6a05d3a0F7654eaa1/08ee22c22c00dd56.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=577753815&f=weixinlist&mmb=mmbmobile",
+      "id": "578569995",
+      "title": "郎酒 红花郎15 酱香型白酒 53度 500ml×4瓶 礼盒装",
+      "priceText": "1392元+108元淘金币",
+      "price": 1392,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "07-29 08:53",
+      "image": "https://img.alicdn.com/i4/6000000000508/O1CN019qwVpu1FciI9BG4Qk_!!6000000000508-0-at.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578569995&f=weixinlist&mmb=mmbmobile",
       "isZero": false,
-      "isTrial": true,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币"
+      ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578569977",
+      "title": "汾酒 黄盖玻汾 53° 清香型 475ml 4瓶",
+      "priceText": "160元",
+      "price": 160,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "07-29 08:53",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/393350/8/9046/146460/698554dfF38347a22/00833203204efd7d.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578569977&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
       "requirements": [],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578558495",
+      "title": "五粮液 喜福盛世吉祥如意 52°浓香型 500ml",
+      "priceText": "68元（需凑单）",
+      "price": 68,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "07-29 07:23",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/229188/27/34790/153716/675ff955F2be39453/59c8d2146703055f.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578558495&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [
+        "需凑单"
+      ],
       "availability": "active",
       "availabilityLabel": "线报仍活跃；平台未公开精确数量",
       "stockCount": null
@@ -426,80 +464,6 @@
       "stockCount": null
     },
     {
-      "id": "578419150",
-      "title": "天湖啤酒 10度全麦白啤 500ml*24罐",
-      "priceText": "54.1元",
-      "price": 54.1,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "07-28 18:24",
-      "image": "https://zhekou-background.manmanbuy.com/image/baoliao/a600376a1aeb011306ddbde2ab2e4844/20260728175659_b34b3081-3088-4401-a4e8-acd31c2b06b5.jpg?x-oss-process=image%2Fformat%2Cjpg%2Fquality%2Cq_80",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578419150&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
-      "id": "578418782",
-      "title": "PLUS会员：青岛啤酒 百年经典 10°P 大罐装 550mL×15罐",
-      "priceText": "55.64元/件（共111.28元）",
-      "price": 55.64,
-      "platform": "京东",
-      "mall": "京东商城",
-      "published": "07-28 17:55",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/315571/29/14090/163723/6867264bF222a7e9a/cc58404169198860.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578418782&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需入会"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
-      "id": "578413634",
-      "title": "88VIP：林湖飘雪花茶 125g 买赠五粮春50度500mLx1瓶",
-      "priceText": "144.3元+53.55元淘金币（需首购）",
-      "price": 144.3,
-      "platform": "天猫",
-      "mall": "天猫旗舰店",
-      "published": "07-28 17:27",
-      "image": "https://img.alicdn.com/bao/uploaded/i2/2089709679/O1CN01fup7sk2LN2eyXm9Ja_!!4611686018427383919-0-item_pic.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578413634&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需 88VIP",
-        "需使用淘金币",
-        "限首购"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
-      "id": "578411744",
-      "title": "天降礼金：珠江啤酒 12度经典老珠江 330ml*6罐",
-      "priceText": "12.99元（叠加全能卡红包后10.99元）",
-      "price": 12.99,
-      "platform": "天猫",
-      "mall": "天猫旗舰店",
-      "published": "07-28 17:19",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN017uRGyk1gvwUDV9NB1_!!6000000004205-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578411744&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "577941120",
       "title": "康师傅 特别特 0油炸面饼 泡面 烧汁雪花牛肉面",
       "priceText": "7.52元+1.78元淘金币",
@@ -734,7 +698,7 @@
       "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-28T23:31:15.369Z",
+  "checkedAt": "2026-07-29T01:01:58.888Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
