@@ -24,7 +24,7 @@
       "price": 2.07,
       "platform": "京东",
       "mall": "京东自营",
-      "published": "07-29 16:54",
+      "published": "07-30 01:50",
       "image": "https://img14.360buyimg.com/pop/jfs/t1/446010/9/13943/282417/6a24ee24F11e103f0/08ee3203206ed524.png",
       "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578130283&f=weixinlist&mmb=mmbmobile",
       "isZero": false,
@@ -744,25 +744,6 @@
       "stockCount": null
     },
     {
-      "id": "578049543",
-      "title": "洋河海之蓝 42度 绵柔型浓香白酒 2018版 480ml×2瓶",
-      "priceText": "186元+40元淘金币",
-      "price": 186,
-      "platform": "天猫",
-      "mall": "天猫旗舰店",
-      "published": "07-29 16:54",
-      "image": "https://img.alicdn.com/i4/2219417650356/O1CN01awRmyv1EV678peJFZ_!!2219417650356.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578049543&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "578036920",
       "title": "泸州老窖 特曲60版 52度 浓香型白酒 230ml (2021)",
       "priceText": "182.8元+15.45元淘金币",
@@ -895,7 +876,7 @@
       "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-29T16:51:34.094Z",
+  "checkedAt": "2026-07-29T18:00:02.548Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
