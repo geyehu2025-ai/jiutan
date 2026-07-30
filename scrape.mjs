@@ -5,6 +5,14 @@ const UA = "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Mobile Safari/537
 const ALCOHOL_KIND = /白酒|啤酒|葡萄酒|红酒|黄酒|米酒|果酒|威士忌|白兰地|伏特加|朗姆酒|清酒|烧酒|鸡尾酒|酒精饮料/i;
 const ALCOHOL_BRAND = /茅台|五粮液|汾酒|泸州老窖|郎酒|习酒|剑南春|洋河|青岛啤酒|雪花啤酒|百威|燕京啤酒|乌苏啤酒|西凤酒|水井坊|古井贡|今世缘|舍得|国台|酒鬼酒|珠江啤酒|哈尔滨啤酒/i;
 const NOT_ALCOHOL = /牛肉面|方便面|泡面|洗发|沐浴|香皂|雪花酥|料酒|酒精湿巾|酒精棉/i;
+const DIRECT_SOURCES = [
+  { id: "taobao", name: "淘宝官网", url: "https://s.taobao.com/search?q=%E7%99%BD%E9%85%92", marker: /itemId|item_id|raw_title/ },
+  { id: "tmall", name: "天猫官网", url: "https://list.tmall.com/search_product.htm?q=%E7%99%BD%E9%85%92", marker: /itemId|item_id|raw_title/ },
+  { id: "jd", name: "京东官网", url: "https://search.jd.com/Search?keyword=%E7%99%BD%E9%85%92&enc=utf-8", marker: /gl-item|data-sku|skuId/ },
+  { id: "pdd", name: "拼多多官网", url: "https://mobile.yangkeduo.com/search_result.html?search_key=%E7%99%BD%E9%85%92", marker: /goods_id|goodsId|goods_name/ },
+  { id: "vipshop", name: "唯品会官网", url: "https://category.vip.com/suggest.php?keyword=%E7%99%BD%E9%85%92", marker: /productId|goodsId|skuId/ },
+  { id: "smzdm", name: "什么值得买", url: "https://search.smzdm.com/?c=home&s=%E7%99%BD%E9%85%92", marker: /feed-row-wide|article_title|data-article-id/ },
+];
 
 function decode(value = "") {
   return value
@@ -125,6 +133,8 @@ function parse(html) {
       published,
       image: match[3].replace(/^\/\//, "https://"),
       sourceUrl: new URL(match[1].replace(/&amp;/g, "&"), "https://m.tuihaowu.com/").toString(),
+      discoverySource: "慢慢买公开优惠流",
+      sourceKind: "deal_aggregator",
       ...zeroFields,
       isTrial: /试用|试饮|小样|尝鲜/.test(combined) ||
         (priceFields.payablePrice !== null && priceFields.payablePrice > 0 && priceFields.payablePrice <= 5),
@@ -133,6 +143,40 @@ function parse(html) {
     });
   }
   return deals;
+}
+
+async function probeSource(source) {
+  const checkedAt = new Date().toISOString();
+  try {
+    const response = await fetch(source.url, {
+      headers: { "user-agent": UA, "accept-language": "zh-CN,zh;q=0.9" },
+      redirect: "follow",
+      signal: AbortSignal.timeout(15_000),
+    });
+    const html = await response.text();
+    const risk = /risk_handler|验证码|verify|captcha|login\.taobao|安全验证|访问受限/i.test(`${response.url} ${html}`);
+    const hasProducts = source.marker.test(html);
+    return {
+      ...source,
+      status: hasProducts ? "live" : risk || response.status === 202 ? "blocked" : "authorization_required",
+      label: hasProducts
+        ? "公开商品结构可读取"
+        : risk || response.status === 202
+          ? "公开搜索触发风控；保留平台落地页核验"
+          : "公开页未返回商品结构；稳定接入需开放平台授权",
+      checkedAt,
+      itemCount: 0,
+      httpStatus: response.status,
+    };
+  } catch (error) {
+    return {
+      ...source,
+      status: "error",
+      label: `读取失败：${error instanceof Error ? error.name : "请求失败"}`,
+      checkedAt,
+      itemCount: 0,
+    };
+  }
 }
 
 function expectedPlatformHost(platform, host) {
@@ -219,6 +263,23 @@ const discovered = [...unique.values()]
 if (!discovered.length) throw new Error("No real alcohol deals were returned; refusing to overwrite the last good snapshot.");
 
 const deals = await mapConcurrent(discovered, 6, verifyDeal);
+const directSources = await mapConcurrent(DIRECT_SOURCES, 3, probeSource);
+const sources = [
+  {
+    id: "manmanbuy",
+    name: "慢慢买公开优惠流",
+    url: FEED,
+    status: "live",
+    label: `已读取 ${successfulPages}/12 页真实优惠`,
+    checkedAt: new Date().toISOString(),
+    itemCount: deals.length,
+  },
+  ...directSources.map((source) => ({
+    ...source,
+    itemCount: 0,
+    verifiedCount: deals.filter((deal) => deal.platform.startsWith(source.name.replace("官网", ""))).length,
+  })),
+];
 let old = { deals: [] };
 try { old = JSON.parse(await readFile("data.json", "utf8")); } catch {}
 const comparable = (snapshot) => JSON.stringify((snapshot.deals || []).map(({
@@ -238,6 +299,7 @@ const output = {
   errors: settled.filter((entry) => entry.status === "rejected").length,
   platformVerified: deals.filter((deal) => deal.verificationStatus === "platform_reached").length,
   source: "公开优惠流发现 + 电商平台落地链接二次核验",
+  sources,
 };
 if (changed) await writeFile("data.json", `${JSON.stringify(output, null, 2)}\n`, "utf8");
 console.log(JSON.stringify({

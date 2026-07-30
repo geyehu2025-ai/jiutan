@@ -1,0 +1,13 @@
+<view class="page safe" wx:if="{{deal}}">
+  <view class="kicker">{{deal.platform}} · {{deal.discoverySource || deal.mall}}</view>
+  <view class="title">{{deal.title}}</view>
+  <view class="price">{{deal.priceText}}</view>
+  <view class="signal"><view class="dot"></view>{{deal.availabilityLabel}}</view>
+  <view class="verify">{{deal.verificationLabel || "仅核验到优惠来源"}}</view>
+  <view class="warning" wx:if="{{deal.isRebateZero}}">返卡后 0 元需要先付款，不等于现金实付 0 元。</view>
+  <view class="section-title">照着做</view>
+  <view class="step" wx:for="{{steps}}" wx:key="*this"><text>{{index + 1}}</text><view>{{item}}</view></view>
+  <view class="warning">价格或库存与线报不一致时不要付款。平台未公开精确库存时，以当前账号、地区和结算页为准。</view>
+  <button class="primary" bindtap="copyLink">复制平台链接</button>
+  <button class="secondary" bindtap="copySteps">复制领取步骤</button>
+</view>

@@ -1,0 +1,14 @@
+{
+  "description": "酒探真实酒价与库存信号",
+  "appid": "touristappid",
+  "projectname": "jiutan-mini",
+  "compileType": "miniprogram",
+  "miniprogramRoot": "miniprogram/",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "navigationBarTitleText": "酒探",
+    "navigationBarBackgroundColor": "#f8f7f4",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f8f7f4",
+    "backgroundTextStyle": "light"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

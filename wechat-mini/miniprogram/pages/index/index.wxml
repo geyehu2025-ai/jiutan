@@ -1,0 +1,37 @@
+<view class="page safe">
+  <view class="hero">
+    <view class="eyebrow">LIVE · MULTI-SOURCE</view>
+    <view class="title">把酒价里的<text>真便宜</text>挑出来。</view>
+    <view class="sub">真实优惠、平台落地核验和公开库存信号，使用同一份网页实时数据。</view>
+    <view class="status"><view class="dot {{error ? 'bad' : ''}}"></view>{{loading ? '正在读取…' : error || ('核验于 ' + checkedAt)}}</view>
+  </view>
+
+  <scroll-view class="source-scroll" scroll-x enhanced show-scrollbar="{{false}}">
+    <view class="source-row">
+      <view class="source {{item.status}}" wx:for="{{sources}}" wx:key="id">
+        <view class="source-dot"></view><view><view class="source-name">{{item.name}}</view><view class="source-label">{{item.label}}</view></view>
+      </view>
+    </view>
+  </scroll-view>
+
+  <scroll-view class="tabs" scroll-x enhanced show-scrollbar="{{false}}">
+    <view class="tab-row">
+      <view class="tab {{platform === item ? 'active' : ''}}" wx:for="{{platforms}}" wx:key="*this" data-value="{{item}}" bindtap="choosePlatform">{{item}}</view>
+    </view>
+  </scroll-view>
+  <view class="toolbar"><text>{{visibleDeals.length}} 条活动</text><label><switch checked="{{onlyZero}}" color="#761c35" bindchange="toggleZero"/>只看 0 元 / 试用</label></view>
+
+  <view class="list" wx:if="{{visibleDeals.length}}">
+    <view class="card" wx:for="{{visibleDeals}}" wx:key="id" data-id="{{item.id}}" bindtap="openDetail">
+      <image src="{{item.image}}" mode="aspectFill" lazy-load />
+      <view class="content">
+        <view class="meta">{{item.platform}} · {{item.discoverySource || item.mall}}</view>
+        <view class="name">{{item.title}}</view>
+        <view class="price">{{item.priceText}}</view>
+        <view class="stock {{item.availability}}">{{item.availabilityLabel}}</view>
+        <view class="verify {{item.verificationStatus}}">{{item.verificationStatus === 'platform_reached' ? '✓ 已到达平台落地页' : '! 仅核验优惠来源'}}</view>
+      </view>
+    </view>
+  </view>
+  <view class="empty" wx:else>{{loading ? "正在抓取真实优惠…" : "当前没有匹配活动"}}</view>
+</view>

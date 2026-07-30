@@ -1,0 +1,4 @@
+{
+  "desc": "酒探页面索引",
+  "rules": [{ "action": "allow", "page": "*" }]
+}

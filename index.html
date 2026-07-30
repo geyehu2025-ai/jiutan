@@ -4,6 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="实时聚合淘宝、天猫、拼多多等渠道的真实酒水优惠与公开库存信号">
+  <meta property="og:title" content="酒探｜真实酒价与多源核验">
+  <meta property="og:description" content="真实优惠、平台落地核验与公开库存信号。">
+  <meta property="og:image" content="https://geyehu2025-ai.github.io/jiutan/og-v2.png">
   <title>酒探｜真实酒价与库存信号</title>
   <style>
     :root{--ink:#17130f;--muted:#796f64;--paper:#f5f0e7;--card:#fffdf8;--line:#d9d0c2;--wine:#7b1027;--green:#16715a;--amber:#ad6717;--red:#af2b2b}
@@ -22,7 +25,10 @@
     .method{display:grid;grid-template-columns:.8fr 1.2fr;gap:60px;padding:75px clamp(20px,8vw,125px);background:#4d0918;color:#f9eee4}.method h2{margin:10px 0;font:44px Georgia}.method ol{list-style:none;padding:0;margin:0;display:grid;gap:22px}.method li{display:grid;grid-template-columns:42px 1fr;gap:14px}.method li b{font:25px Georgia;color:#d79a77}.method li strong{display:block}.method li span{color:#d8c5b9;line-height:1.65}footer{padding:30px clamp(16px,6vw,90px);display:flex;align-items:center;background:#24060c;color:#e8d8cf}footer p{margin-left:auto;color:#a99287;font-size:12px}
     .backdrop{position:fixed;inset:0;z-index:30;display:none;place-items:center;padding:18px;background:rgba(17,8,9,.74);backdrop-filter:blur(7px)}.backdrop.open{display:grid}.modal{width:min(740px,100%);max-height:90vh;overflow:auto;padding:36px;position:relative;background:var(--card)}.close{position:absolute;right:16px;top:10px;border:0;background:transparent;font-size:32px;cursor:pointer}.modal small{color:var(--wine);font-weight:700}.modal h2{margin:9px 40px 5px 0;font:30px/1.28 Georgia}.modal .price{font-size:22px}.modal h3{margin:24px 0 10px}.steps{list-style:none;padding:0;margin:0;display:grid;gap:9px}.steps li{display:grid;grid-template-columns:36px 1fr;gap:10px;padding:12px;background:#f2ece2;line-height:1.55}.steps b{color:var(--wine);font:19px Georgia}.warn{margin:16px 0;padding:12px;border-left:3px solid var(--amber);background:#fff5df;color:#6e5229;font-size:13px;line-height:1.6}.buy{display:block;padding:13px;text-align:center;background:var(--wine);color:#fff;font-weight:700}
     @media(max-width:930px){nav{display:none}.grid{grid-template-columns:1fr}.method{grid-template-columns:1fr}.stats{grid-template-columns:repeat(2,1fr)}}
-    @media(max-width:650px){header{height:64px;padding:0 12px}.brand{font-size:19px}.notify{margin-left:auto;padding:8px;font-size:12px}.hero{padding:65px 18px 45px}.hero h1{font-size:47px}.hero:after{font-size:310px;right:-60px}.stats{margin:0 12px}.stats div{padding:16px}.stats b{font-size:32px}main section.feed{padding:55px 12px}.heading{display:block}.heading h2{font-size:37px}.filters{flex-direction:column;align-items:stretch}.tabs{margin:0}.search{width:100%}.card{grid-template-columns:105px 1fr}.content{padding:15px}.card h3{font-size:17px}.card-actions{flex-direction:column;align-items:stretch;gap:9px}.card-actions a{text-align:center}.method{padding:55px 18px}footer{align-items:flex-start;flex-direction:column;gap:15px}footer p{margin:0;line-height:1.6}.modal{padding:28px 18px}}
+    .source-wrap{padding:64px clamp(16px,6vw,90px) 0}.source-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:24px}.source{display:flex;gap:10px;min-height:88px;padding:15px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.72)}.source:before{content:"";flex:0 0 auto;width:8px;height:8px;margin-top:4px;border-radius:50%;background:var(--amber)}.source.live:before{background:var(--green)}.source.error:before{background:var(--red)}.source strong{display:block;font-size:13px}.source small{display:block;margin-top:7px;color:var(--muted);font-size:10px;line-height:1.5}.source b{margin-left:auto;color:var(--muted);font:18px Georgia}
+    body{background:#f8f7f4}.hero{min-height:0;padding-top:90px;padding-bottom:80px;background:none}.hero:after{display:none}.hero h1{font-size:clamp(50px,6.5vw,88px)}.stats{border-top:1px solid var(--line);background:transparent}.card{border-width:0 0 1px;background:transparent}.pic{border-radius:12px}.filters{border:0;border-radius:14px;background:#f0eee9}.tabs button.active{border-radius:9px}.notify,.actions button,.card-actions button,.buy{border-radius:99px}.method{margin:80px clamp(16px,6vw,90px) 0;border-radius:24px;background:#181716}
+    @media(max-width:930px){.source-grid{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:650px){header{height:64px;padding:0 12px}.brand{font-size:19px}.notify{margin-left:auto;padding:8px;font-size:12px}.hero{padding:65px 18px 45px}.hero h1{font-size:47px}.stats{margin:0 12px}.stats div{padding:16px}.stats b{font-size:32px}.source-wrap{padding:55px 12px 0}.source-grid{display:flex;overflow:auto}.source{min-width:220px}main section.feed{padding:55px 12px}.heading{display:block}.heading h2{font-size:37px}.filters{flex-direction:column;align-items:stretch}.tabs{margin:0}.search{width:100%}.card{grid-template-columns:105px 1fr}.content{padding:15px}.card h3{font-size:17px}.card-actions{flex-direction:column;align-items:stretch;gap:9px}.card-actions a{text-align:center}.method{padding:55px 18px;margin-left:12px;margin-right:12px}footer{align-items:flex-start;flex-direction:column;gap:15px}footer p{margin:0;line-height:1.6}.modal{padding:28px 18px}}
   </style>
 </head>
 <body>
@@ -44,6 +50,10 @@
     <div><b id="rebateCount">—</b><span>返卡后 0 元</span></div>
     <div><b id="trialCount">—</b><span>试用/超低价</span></div>
   </section>
+  <section class="source-wrap" id="sources">
+    <div class="heading"><div><small>SOURCE HEALTH</small><h2>来源不是装饰，是证据。</h2></div><p>绿色表示本轮读取或落地核验正常；受登录、验证码或授权限制的来源会如实标注。</p></div>
+    <div class="source-grid" id="sourceGrid"><div class="source"><span><strong>正在检查来源</strong><small>等待本轮真实读取结果…</small></span></div></div>
+  </section>
   <main>
     <section class="feed" id="deals">
       <div class="heading"><div><small>LIVE FEED</small><h2>当前真实活动</h2></div><p>数据任务约每 5 分钟复查。“已到达平台”只代表落地链接可访问；精确库存仍以账号、地区和结算页为准。</p></div>
@@ -63,11 +73,12 @@
   <footer><div class="brand"><span class="mark">酒</span><span>酒探<small>JIUTAN</small></span></div><p>公开数据实时聚合 · 不代替平台最终价格与库存 · 理性饮酒，未成年人请勿饮酒</p></footer>
   <div class="backdrop" id="backdrop"><section class="modal" role="dialog" aria-modal="true"><button class="close" id="close">×</button><small id="modalMeta"></small><h2 id="modalTitle"></h2><div class="price" id="modalPrice"></div><div id="modalStock" class="stock"></div><h3>照着做</h3><ol class="steps" id="steps"></ol><div class="warn">价格或库存与线报不一致时，不要付款。不同账号、会员等级和收货地区可能看到不同结果。</div><a class="buy" id="buy" target="_blank" rel="noreferrer">打开真实活动页并核验库存 ↗</a></section></div>
   <script>
-    const state={deals:[],platform:"全部",onlyZero:false,query:"",previous:new Set()};
-    const platforms=["全部","天猫超市","天猫","淘宝","拼多多","京东","其他"];
+    const state={deals:[],sources:[],platform:"全部",onlyZero:false,query:"",previous:new Set()};
+    const platforms=["全部","天猫超市","天猫","淘宝","京东","拼多多","唯品会","其他"];
     const $=id=>document.getElementById(id);
     const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
     function renderTabs(){ $("tabs").innerHTML=platforms.map(p=>`<button class="${state.platform===p?"active":""}" data-platform="${p}">${p}</button>`).join(""); document.querySelectorAll("[data-platform]").forEach(b=>b.onclick=()=>{state.platform=b.dataset.platform;renderTabs();render()})}
+    function renderSources(){const list=state.sources||[];$("sourceGrid").innerHTML=list.length?list.map(s=>`<a class="source ${esc(s.status)}" href="${esc(s.url)}" target="_blank" rel="noreferrer"><span><strong>${esc(s.name)}</strong><small>${esc(s.label)}</small></span><b>${s.itemCount||s.verifiedCount||0}</b></a>`).join(""):'<div class="source error"><span><strong>暂无来源状态</strong><small>本次数据尚未返回来源探测结果。</small></span></div>'}
     function visible(){return state.deals.filter(d=>(state.platform==="全部"||d.platform===state.platform)&&(!state.onlyZero||d.isZero||d.isRebateZero||d.isTrial)&&(`${d.title}${d.mall}${d.priceText}`).toLowerCase().includes(state.query.toLowerCase()))}
     function render(){
       const list=visible();
@@ -82,7 +93,7 @@
       try{
         const r=await fetch(`data.json?t=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw new Error(`HTTP ${r.status}`);const data=await r.json();const next=data.deals||[];
         if(notify&&Notification.permission==="granted"){const fresh=next.filter(d=>!state.previous.has(d.id)&&(d.isZero||d.isRebateZero||d.isTrial||(d.payablePrice!=null&&d.payablePrice<=10)));if(fresh.length)new Notification(`酒探发现 ${fresh.length} 条新低价`,{body:`${fresh[0].title}｜${fresh[0].priceText}`})}
-        state.deals=next;state.previous=new Set(next.map(d=>d.id));$("status").textContent=`数据内容核验于 ${new Date(data.checkedAt).toLocaleString("zh-CN",{hour12:false})} · ${data.platformVerified||0} 条已到达平台`;$("verifiedCount").textContent=next.filter(d=>d.verificationStatus==="platform_reached").length;$("zeroCount").textContent=next.filter(d=>d.isZero).length;$("rebateCount").textContent=next.filter(d=>d.isRebateZero).length;$("trialCount").textContent=next.filter(d=>d.isTrial).length;render();
+        state.deals=next;state.sources=data.sources||[];state.previous=new Set(next.map(d=>d.id));$("status").textContent=`数据内容核验于 ${new Date(data.checkedAt).toLocaleString("zh-CN",{hour12:false})} · ${data.platformVerified||0} 条已到达平台`;$("verifiedCount").textContent=next.filter(d=>d.verificationStatus==="platform_reached").length;$("zeroCount").textContent=next.filter(d=>d.isZero).length;$("rebateCount").textContent=next.filter(d=>d.isRebateZero).length;$("trialCount").textContent=next.filter(d=>d.isTrial).length;renderSources();render();
       }catch(e){$("status").textContent=`真实数据读取失败：${e.message}`;$("dot").classList.add("bad");$("grid").innerHTML='<div class="empty"><strong>数据暂时不可用</strong><span>页面不会用演示数据顶替，请稍后刷新。</span></div>'}
     }
     $("search").oninput=e=>{state.query=e.target.value;render()};$("onlyZero").onchange=e=>{state.onlyZero=e.target.checked;render()};$("refresh").onclick=()=>load(false);$("notify").onclick=async()=>{if(!("Notification"in window))return alert("当前浏览器不支持网页通知");const p=await Notification.requestPermission();$("notify").textContent=p==="granted"?"● 浏览器提醒已开启":"浏览器未允许通知"};$("close").onclick=()=>$("backdrop").classList.remove("open");$("backdrop").onmousedown=e=>{if(e.target===e.currentTarget)e.currentTarget.classList.remove("open")};document.onkeydown=e=>{if(e.key==="Escape")$("backdrop").classList.remove("open")};
