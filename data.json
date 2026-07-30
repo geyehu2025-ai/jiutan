@@ -35,6 +35,26 @@
       "stockCount": null
     },
     {
+      "id": "578823021",
+      "title": "茅台王子酒 2026款 酱香经典 53度白酒 500ml×4瓶+凑单",
+      "priceText": "合171.8元/瓶，共687.38元+111.37元淘金币（需凑单）",
+      "price": 171.8,
+      "platform": "天猫",
+      "mall": "天猫旗舰店",
+      "published": "07-30 07:59",
+      "image": "https://img.alicdn.com/i1/2219249977661/O1CN01WLLWdv26SnPg2Xi11_!!2219249977661.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578823021&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币",
+        "需凑单"
+      ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
       "id": "578812849",
       "title": "尖庄 高光特渠版 绵柔白酒 52度 整箱 500ml*6瓶",
       "priceText": "274.25元+4.47元淘金币",
@@ -234,6 +254,25 @@
       "requirements": [
         "需使用淘金币",
         "需凑单"
+      ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "578737570",
+      "title": "谷小酒 谷院烧酒 黄瓶 川派浓香 白酒 42%vol 500mL",
+      "priceText": "13.9元（需首购）",
+      "price": 13.9,
+      "platform": "京东",
+      "mall": "京东商城",
+      "published": "07-29 23:21",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/234208/36/29957/85645/6757f51aF114be386/0f5eb03164d006d5.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578737570&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [
+        "限首购"
       ],
       "availability": "active",
       "availabilityLabel": "线报仍活跃；平台未公开精确数量",
@@ -699,26 +738,6 @@
       "stockCount": null
     },
     {
-      "id": "578661539",
-      "title": "再降价：郎酒 红花郎(10) 酱香型白酒 53度 500ml×2瓶+凑单",
-      "priceText": "378.88元+44.95元淘金币（淘金币界面加购，凑单）",
-      "price": 378.88,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "07-29 17:03",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01kZJOjT1lcJhpb1MP8_!!6000000004839-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578661539&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币",
-        "需凑单"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "578344710",
       "title": "泸州老窖特曲 花开富贵礼盒 52度500ml×2瓶",
       "priceText": "447.96元+37.44元淘金币",
@@ -795,25 +814,6 @@
       "stockCount": null
     },
     {
-      "id": "578065221",
-      "title": "汾酒 蓝汾酒 53度 475mL×2瓶 礼盒装",
-      "priceText": "169.66元+21.42元淘金币",
-      "price": 169.66,
-      "platform": "天猫",
-      "mall": "天猫旗舰店",
-      "published": "07-29 16:54",
-      "image": "https://img.alicdn.com/bao/uploaded/i4/2466245383/O1CN01ZVjdzV1pdSzQYiyng_!!2-item_pic.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=578065221&f=weixinlist&mmb=mmbmobile",
-      "isZero": false,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "active",
-      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
-      "stockCount": null
-    },
-    {
       "id": "577871001",
       "title": "再降价：罗斯福精酿修道士啤酒 6号/8号/10号 330ML 6瓶",
       "priceText": "77.82元+10.47元淘金币",
@@ -828,6 +828,23 @@
       "requirements": [
         "需使用淘金币"
       ],
+      "availability": "active",
+      "availabilityLabel": "线报仍活跃；平台未公开精确数量",
+      "stockCount": null
+    },
+    {
+      "id": "577319699",
+      "title": "双沟珍宝坊君坊 52度 浓香型绵柔白酒 520mL×6瓶",
+      "priceText": "488元",
+      "price": 488,
+      "platform": "京东",
+      "mall": "京东商城",
+      "published": "07-30 08:29",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/377697/10/21884/163126/694e35daFc5df1fbc/2f73cdf3881982fa.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=577319699&f=weixinlist&mmb=mmbmobile",
+      "isZero": false,
+      "isTrial": false,
+      "requirements": [],
       "availability": "active",
       "availabilityLabel": "线报仍活跃；平台未公开精确数量",
       "stockCount": null
@@ -850,7 +867,7 @@
       "stockCount": null
     }
   ],
-  "checkedAt": "2026-07-29T23:35:12.425Z",
+  "checkedAt": "2026-07-30T00:59:11.177Z",
   "pagesRead": 12,
   "errors": 0,
   "source": "公开实时优惠流与平台落地页"
