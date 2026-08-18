@@ -1,6 +1,284 @@
 {
   "deals": [
     {
+      "id": "583759477",
+      "title": "88VIP：汾酒 黄盖玻汾 53° 清香型 475ml 6瓶",
+      "priceText": "223.94元+23.88元淘金币（需凑单）",
+      "price": 223.94,
+      "payablePrice": 223.94,
+      "unitPrice": null,
+      "platform": "天猫",
+      "mall": "天猫旗舰店",
+      "published": "08-18 16:53",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01l8wLvX1U4Yual3rbY_!!6000000002464-2-yinhe.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583759477&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需 88VIP",
+        "需使用淘金币",
+        "需凑单"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "已到达天猫落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://uland.taobao.com/taolijin/edetail?eh=LAQcOWJYCxCgMAXRxtBgXWMgvIbQbRRlXOo&es=2u59cFYnEqRCyiVDlX7lOBY6E%2BFZUFGtRn0MWVKP2c5oNAbz5bwp%2FCGK%2BngzoFVuj7QqVPMkc0%2Bzm7c%2Fgq9%2Bm%2FbT5cyQXI3BoJylrqaBl1VMs%2FzAkQN3P4rayq6GCvdWbU9psTDZvG88fBA%2Bd2rim%2FpiR8xWDtEIRv8xDLiMAulFEVJa72Lx5vzaT2cf%2B8RkEQv0KohKPZhwYPmIWAcPITp3vYH%2B4ajY&union_lens=lensId%3ATAPI%401787043146%402107c0eb_145e_1a014126cf0_242d%4001%3Btraffic_flag%3Dlm",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至天猫；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:00.120Z"
+    },
+    {
+      "id": "583758144",
+      "title": "再降价：习酒 窖藏1988(2025版包装) 53度 500ml 单瓶装",
+      "priceText": "339元（含国补）",
+      "price": 339,
+      "payablePrice": 339,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "08-18 16:47",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/297290/2/24849/54438/688727c9Fe025c49d/e2548f144e1def95.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583758144&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://union-click.jd.com/jdc?e=583758144&p=JF8BATMJK1olXDYCVV9cAEkVAmgIHF0lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUVQQAVVldD00IWipURlVRAl5cCyIJXRNHZj9eF1h7XGgCZBgJbk5oBCtvfl1FIlBiITwEFjRpRTkEF2sQXQcCV1ZVC0geM2wJGV4dWw8KVVltZiVHBD1fS1pACA4LVg4zZnsXBl9edVsUXAcDXVpYD0knAW8JG1sUXA8CUW5dDkIRAmoLHV4SVAELZF5VD3tXXzJUH18TXDYyZF1tOHsXM2w4RTUUWgACUVpdXCVLQSdfHlpAAWgAVl5eAUwUC18KGloXXzYyZCgJYDEeS2lJEikRGXwALx1bDC8SZBhVUA9eOmRrOlwDST5URihjeQt9J1F5U1YAdnsXM28LGF8dbQcy",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:00.121Z"
+    },
+    {
+      "id": "583757628",
+      "title": "轩博 精酿小麦啤酒500mL×12罐 原浆醇厚",
+      "priceText": "仅1.66元/罐（共19.9元）",
+      "price": 19.9,
+      "payablePrice": 19.9,
+      "unitPrice": 1.66,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "08-18 16:43",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/446010/9/13943/282417/6a24ee24F11e103f0/08ee3203206ed524.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583757628&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://union-click.jd.com/jdc?e=583757628&p=JF8BATcJK1olXwECV15YDkMRC18IGloVVQ8FVV9eCEgnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXC2YPGloWXQUdDRsBVXtgUy10GR9XPWVmCCUdUiJFUxZeHAtlUQoyUV5cCEgfC2wLEmsWXAQHXFhUAEoQMwFmHFpACAdQXV1YXx8XbQE4G14lH2jVxsGKpc7PkcHcuesJBlDb4sWEqd8UAmwNK1kVXAYCVV9UCE4nA2kBHVoQXgIFVV9eC3sXC2g4WwdIAQIGUl9tOHsUM184G2sWbVhsVVlZABtEAW1mRxldCgcDUg4zCkgfCm0NHV8lXwcDVlxtOHtlBh14ZQVtGVAKKFwtUTxpVGhMSCBhI11nKT0kASUVXDNMTS9pHkEBJi42fBJnACk4G2sVXgUGXG5cOA",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:00.121Z"
+    },
+    {
+      "id": "583756884",
+      "title": "燕京啤酒 吉祥红黄啤 罐装 500ml×12罐",
+      "priceText": "35.15元",
+      "price": 35.15,
+      "payablePrice": 35.15,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "08-18 16:39",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/61854/35/26073/311107/6423fdbbF0125aa89/d542e88e25a807b9.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583756884&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://union-click.jd.com/jdc?e=583756884&p=JF8BAcsJK1olWAUHVFlfAUoVA18IGloUXAIKVl1aDk0nRzBQRQQlBENHFRxWFlVMWzBeTA9KQl1XSwwDVFVPRjtUBAJQAVsMFgQZBChSeG1QGhJRWwR4MlwPayhJQzoBWx5dOHFnETtYZklFRA5rEhN1AAd5Vjs9aE4XAHhIFy9sLWN1JzkefjJrYBtRYBptKGFwNgQ9CitlCgxqQTNRKWN6NjxceABgcWZofyhhX3FaXCk_UjsSYxZzayB2NkJ0PQg4fyheRxthYwN9AmJxNBYpaigXCy9sbidNKmV9Fik0fC1uYDpMbS9hSQR3ZBY_TyNnYxtgfj5nPENWDiUtXUtNSykEF2sQXQcCV1ZVC0geM2wJGV4dWw8KVVltZiURAz0JTAtHWgBXVVwzZnsXBl9KdY2j-dOJyYn6iQxFM20IGlsVXAcLVFttCE0eBW4NGFkXVAQHUW5dAEwnQzNVR18RWwcyZG5eOHsnA2w4GGtLMwcFUl0ICx9AbTNKUw9SVQNKOlxfCU8QBWYNK1kUXAQAZG5taw5sATcJUh8TX3xkVgw-axVXVmZIXhNwKmNHMVszChlQYgwBUztIXH0AMT49DUsUM284G1gWWQ4yVW4",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:00.121Z"
+    },
+    {
+      "id": "583756462",
+      "title": "LOUIS BRANDON 路易布兰登 白朗姆酒 40° 700ml",
+      "priceText": "15元",
+      "price": 15,
+      "payablePrice": 15,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "08-18 16:37",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/334095/30/27178/123974/68fb3705Fb00537c3/410b44e11ef04c53.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583756462&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://union-click.jd.com/jdc?e=583756462&p=JF8BAS0JK1olXw8KUVdcDUgWBF8IGloVVAQCXFhVC08nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXCm0IE10dXgIdDRsBVXtLagZ8ejp3CWUDUyEocj9EYRt2eh5lUQoyUV5cCEgfC2wLEmsWXAQHXFhUAEoQMwFmTF0RVAIAA11dAEgSbQE4G14lH2jb0sCKoenDit3cr9rD9YwyVl5cCEsWAmYIHmsVWw8EVVteCEMfBGcKK1sdWjZCCAMBDE8RAl84K1glbTYCZF1tViUWUG1YHghBXWheFhYJShsQUwEKGVsUXwUKXG5fCUoVAV84Kz5iLQ55ISAHWC1IQWdXGA1SA31YVhcPVQJ2dSZodVlMBgR_Eh8BbhZnC2kBazNjKDYCZF5eC08fM244",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:00.121Z"
+    },
+    {
+      "id": "583756111",
+      "title": "习酒 君品 53度500ml*1瓶",
+      "priceText": "583.2元",
+      "price": 583.2,
+      "payablePrice": 583.2,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "08-18 16:35",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01PJDVGC1dyHmpUgmb6_!!6000000003804-0-yinhe.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583756111&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达天猫超市落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=1oHCKO8v07ilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJMaaiBct72Za5C4KnA1%2B6ZzVTg3CFIM2sVzxvzuj%2FciBNJi7zuQdcxdjla%2BWbpd7YaczA%2F1QRyMfyMW3eIAWKRa6LeGhgJY%2B%2FqQi7yi8trFSdyKLAMTvj%2BmfuX4l249SGUayiY6rxLDAtGdp2ClZRgQAA2RLgu%2FVJ14lBSpsuA%2BSw79adNpEP7aM%2B6cSwHWdR5jz8hmIrqWc%2BymtJFL2qgxKrVI2oKIxqBqie28r82%2F2zhQ7llLx4XU5KjMzRsyK0%2Flf8cLuUwgoCGruttYDvNg%3D%3D&traceId=0bb7c8a417870420883597448e145a&&union_lens=lensId:TAPI@1787042088@2166e49c_13eb_1a0140245e6_31fe@01&cont_id=583756111",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:00.121Z"
+    },
+    {
+      "id": "583755588",
+      "title": "再降价：茅台 飞天小酒版 53° 酱香型 50ml",
+      "priceText": "148元（需首购）",
+      "price": 148,
+      "payablePrice": 148,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "08-18 16:35",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/306245/40/24885/71169/6895d6b8Fa407dd92/00432c9b3d73cdcb.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583755588&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "限首购"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://union-click.jd.com/jdc?e=583755588&p=JF8BATMJK1olXDYCVV9eD0wQBmsLH1wlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWWgEFUVpeDEwIWipURlVRAl5cCyIJXRNHZj9eF1h7XGgCZCAIYx9nRAZLfj9vBwJ0PD8hUj1hAh8EF2sQXQcCV1ZVC0geM2wJGV4dWw8KVVltZiVHAjgMTA5AWAcBU1szZnsXBl9edVsUXAcHUlpeC0InAW8JG1sUXA8CUW5dDkIRAmoLG1oRXgELZF5VD3tXXzJUH18TXDYyZF1tOHsXM2w4RTUUWgJSVQsODyVLQSdcW1NGC2gAV1ZfCU4QBF8KGloXXzYyZAwuaxBRdzJuchlqOV1eIVsUXBNFYzhoHjMdOnRiOlwZUDMSWxFfTFl2BlphEgAgXnsXM28LGF8dbQcy",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:01.147Z"
+    },
+    {
+      "id": "583754213",
+      "title": "再降价：古井贡酒 老瓷贡 50度 1L*1瓶 单瓶装",
+      "priceText": "54元（含国补、需首购）",
+      "price": 54,
+      "payablePrice": 54,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "08-18 16:27",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/336161/29/8749/137604/68bfd6c7Ff3a065c8/d02c978e44284f8b.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583754213&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "限首购"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://union-click.jd.com/jdc?e=583754213&p=JF8BATAJK1olXwIAVl9aDkoQAF8IGloWVAUGUFlcAEwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUCmwMH1wUVQEdDRsBVXsXWx1cQQ9vGWYBHBcoUAoVVjtNewdlUQoyUV5cCEgfC2wLEmsWXAQHXFhUAEoQMwFmElJBXA4AXQwPW0JDbQE4G14lH2jX3PKLrf7PstfQr_jNwIva4P1tCksWA28JGlIVWDYCUldbCU4XB28PG10VbQYKU24dVBZLB2sOGmslbQUyZG5dOEgnXQEJHF8RXlJWAzABSgNDVjNLQTUXXg8KV1lbDXsVAm4KGWslbUZyIx4DbgpCQzYOSQIRVH1UA1pbaStpSi5DcAFwMwRZDlYmdhBydzx_QhJ3P394Nm5dOEsUAGsAK1ol",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:01.369Z"
+    },
+    {
+      "id": "583753766",
+      "title": "茅台 飞天 53度 50ml 单瓶装",
+      "priceText": "158元（含国补）",
+      "price": 158,
+      "payablePrice": 158,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "08-18 16:23",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/306245/40/24885/71169/6895d6b8Fa407dd92/00432c9b3d73cdcb.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583753766&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://union-click.jd.com/jdc?e=583753766&p=JF8BATMJK1olXDYCVV9eD0wQBmsLH1wlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWWgEFUVpeDEwIWipURlVRAl5cCyIJXRNHZj9eF1h7XGgCZAoOfAhSHSdzfj4WX1pxAQU5cD4RBzkEF2sQXQcCV1ZVC0geM2wJGV4dWw8KVVltZiVCUz1aSQhAWwFVB1szZnsXBl9edVsUXAcHUlpeC0InAW8JG1sUXA8CUW5dDkIRAmoIGVISXw4BZF5VD3tXXzJUH18TXDYyZF1tOHsXM2w4RTUUWlZQUAtYCyVLQSdcSx9JAGgAV1ZdDksSBl8KGloXXzYyZAwuaxBRdzJuchlqOV1eIQA9TQplYzhoHjMdOnRiOlwZUDMSWxFfTFl2BlphEgAgXnsXM28LGF8dbQcy",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:02.477Z"
+    },
+    {
+      "id": "583753316",
+      "title": "汾酒 黄盖玻汾 清香型 53度 475mL*12瓶 整箱装",
+      "priceText": "476.38元（含国补）",
+      "price": 476.38,
+      "payablePrice": 476.38,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "08-18 16:21",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/256537/37/10269/167137/677cd3f5F02123c47/c04aa7442f062aa9.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583753316&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://union-click.jd.com/jdc?e=583753316&p=JF8BARUJK1olXDYCVVxcDkgXMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoVAmkLG0RMGFpfZB5dXQhkeQ5WeEVBGl5bNgsDWixsRx8EF2sQXQcCV1ZVC0geM2wJGV4dWw8KVVltZiUUCjgLE1hAVAQDUF0zZnsXBl9edVsUXAcDXF9YD0snAW8JG1sUXA8CUW5dDkIRAmoIGF8cXA4DZF5VD3tXXzJUH18TXDYyZF1tOHsXM2w4RTUUWgIGXAtfWiVLQSdcEllJAWgAV1ZdAEMXCl8KGloXXzYyZD4jfS5QQS1vWgZhLmNUFDdfDx9KQAxaWAFvG1xnOlwHVTRACiZPY1xgKA8BJDU2b3sXM28LGF8dbQcy",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:02.492Z"
+    },
+    {
       "id": "583751574",
       "title": "再降价：泸州老窖六年窖头曲 45度 125mL*6瓶*4箱",
       "priceText": "274.5元（需首购）",
@@ -27,7 +305,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583751574&p=JF8BAR8JK1olXDYCVV9eCk4SC2wNEl8lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWXwMHXF1YAU8IWipURmtdWV1gLwQbfSseZQlWYl0cWVxAJC0bBEcnBm8JG1gdVQUBXW5eCUkSC2kBE1oSbWhsUlhZXU4VAT8MTFMTM2gyVFttXiUXAm4JGlsXXQEKZFxdCUsXAm4BG14lXQALUl9YCU0VB2sLG2sVVQEyFAIAVE8TBW44K2sWbTYyVG5eOBV5AmgMGQwXXwFsCBwVXQ1RVytmGVgcWwMEUF9tCkoWAW04K2tVGHUCDxkZbwBtcGkIXRh3BmRAHAs4DBsSWzF6EjUXVAJlDwcFdiAecG9qTVxNCH0yVG5dC0gTC18JKw",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:09.075Z"
+      "verifiedAt": "2026-08-18T08:57:02.496Z"
     },
     {
       "id": "583751051",
@@ -56,7 +334,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583751051&p=JF8BAR8JK1olXDYCVV9eCUgUCm4PHF8lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWXAUBXV9aD08IWipURmt0DwJ_HT4NUilxV2teEi5IKmFiAQgbBEcnBm8JG1gdVQUBXW5eCUkSC2kBE1oSbWhsUQ4NCB8fBDwKSFkWM2gyVFttXiUXAm4JGlsXXQEKZFxdCUsXAm4BG14lXQALUl9YCUwWAGsJHmsVVQEyFAIAVE8TBW44K2sWbTYyVG5eOBV5AmgOG15BDVFsCBwVXQ8XQCZmGVgdWQQKVlttCkoWAW04K2tVK0R1MjhUdU1ffA5_cg5rVV57KwBVexVHADh7ezUXOX5bVB8VDU9cQRhXXhITIVUyVG5dC0gTC18JKw",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:09.076Z"
+      "verifiedAt": "2026-08-18T08:57:02.557Z"
     },
     {
       "id": "583750656",
@@ -83,7 +361,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583750656&p=JF8BATsJK1olXwUDV19bCEwQAF8IGloUWAMDXVlZAEgnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBmoJElwRVQUdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIK198R25UDy5UaAsUdA5gciduPE9DKi5RBHsSA24IGFMdXgULZF1cCk4fBWYAGlwlM2hRV1oKXEgWAD0IHQ57MzYCUW4fZglOQCpUQA5XATYAVF9dCEoWCm8NK1sTVAADUV9YDkkeC244G1MSbUZeCQJZDE0WM184GGslbQYyV24DZkoQB2sJTwwUM1pAHAseWBASbW0LEl4dVQ4HZFxcCUkVM184QxhxHHpnKSQ4UQ9tQh8MH1x3PlBqEAgoChdkcA9mGRlADnZxJhwEVi9WfDloXC59bQYyVF1eDEMnAl8",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:09.076Z"
+      "verifiedAt": "2026-08-18T08:57:02.728Z"
     },
     {
       "id": "583749622",
@@ -110,7 +388,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=Vl5TV6UsbNilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJp%2BW7iLuNvCqeWlXfhyizNdM0%2B2RroKb3Uqo8K3Xdo1LBpSifl6tg1i5b1ybpPHSYaczA%2F1QRyMfyMW3eIAWKRa6LeGhgJY%2B%2FqQi7yi8trFSdyKLAMTvj%2BiHDJFv4HWtFXSjRw02n%2B06Y0sORkmNzMpVwIEXDgs9ZC7y27DGLoYtC3947oDd%2BGAvsea%2BKhh3dm1eKNaLOKX1hM2XidGlJtbcZelJt%2BzjyKzqu6r%2FrsGdxVzADc9pCxK3iwv1OGJmrcMrt5wNioB8u71XH2uy2oGUFFgz3RBVH&traceId=0bf89d0517870401374955362e0cf2&&union_lens=lensId:TAPI@1787040137@2133e4e7_1488_1a013e48154_1685@01",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:09.076Z"
+      "verifiedAt": "2026-08-18T08:57:03.081Z"
     },
     {
       "id": "583749110",
@@ -137,7 +415,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583749110&p=JF8BAScJK1olXwUDV19bCEwQAF8IGloWVAECXF1bAE4nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUCmgIE1gTVQMdDRsBVXtHayReZzllJmVaNlsHcwBffhcMcFp1UQoyUV5cCEgfC2wLEmsWXAQHXFhUAEoQMwFmTlsVWQdSXQ4KXEsSbQE4G14lH2hADR0YVBBCQTM4GVsUXQYDVVddDXsXBWYOGlkdVAEFV1hVOEsfBF9IRwZJWQIEVW5tOEgnM18IK1glA2gDU1heW09HCgFUWRNACQ5DUjBfC0ISBGwMEmsXXAcAVm5tOEtvUChecw5tIQdSNxlbVyJPXGZ7QToTOHxBIDc9ZklqaA9qGQhFPnRREykLTwMWe18IK1sWXgIKZF9t",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:09.076Z"
+      "verifiedAt": "2026-08-18T08:57:03.606Z"
     },
     {
       "id": "583748802",
@@ -167,7 +445,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=CAzxa4Czyj%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLTcjB%2BX0HydEEUJ0rDyQfCNmu4%2BQHQyaE8YvWaMzX2zfOJ2%2BgoOvT7e%2BEXBWfBRiI3kSuN6GmE69yBOK%2B8KjzSqkIu8ovLaxUm%2FkwoUPrLpR0xLzODe%2B3lwEzhpKad%2Fhi2bVllbbldn4OFzR44pC6b0rHm6EWHJ%2FI5kSPu3o25wzbMbzSLNywcNe9jmICPCUQk9xwCDufQykCqRG%2FdcD6%2FxmB2oFJD7awzQ37pMpRphXXlIeCFm5U2prFNBQuQgInAhq7rbWA7zY%3D&traceId=0b5205ef17870396791287777e0c7f&&union_lens=lensId:TAPI@1787039679@213f175c_1428_1a013dd82d8_e814@01&cont_id=583748802",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:09.076Z"
+      "verifiedAt": "2026-08-18T08:57:03.971Z"
     },
     {
       "id": "583748791",
@@ -194,7 +472,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583748791&p=JF8BAacJK1olWAcHVVxVC00WBF8IGloUXAQDVlxaDU0nRzBQRQQlBENHFRxWFlVWQDEXR0ROCBlQCgJDVBtKXnFYSR5NGlIcUVoabhJnX2dda1lNVQF3Cj4PfSxNBylaRDxwDxhaCwsJQVRORjNVFRlPGQpyPRUOdzQTewhXRAFGCH9aJCYmdB18RzwPHSNBPWgAIicabzwXVChqUAhIHwAKFhpKTBRPXTBVSwRAOE5DAFJdHxdHWzBqQR8ZXQcDVV9fCUkVBGoOKztdL1RJFFwBagBtc3VAbRloHnV2MhhRBHsSA24IGFMdXgULZF1cCk4fBWYAGlwlM2gLAF5aAUgVA25fSA97MzYCUW4NZkMfC2oBHlsWXQ4EZFxdCUsXAm4BG14lXQALUl9fAEwRAmcOEmsVVQEyFAIAVE8TBW44K2sWbTYyV1htC3tJbW4PHl0RDwNSOgIfQB5HAW4LdVkWVAAKVF9ZOEkWAm0KK2slLW9JByEiDDNwXDBSSA5sBXZ6LyILYw9EBGlwTzt7X3B7EzkqCBxQYSRbRhkTVURGZF5tCEgUB2c4Gms",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:10.319Z"
+      "verifiedAt": "2026-08-18T08:57:03.981Z"
     },
     {
       "id": "583747714",
@@ -221,7 +499,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583747714&p=JF8BAUEJK1olXwIHVV1eCkIfBV8IGloWVQUDVVZUDkInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUC2wJGlMcWw8dDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKwlxCWRFLCAoaDlfeDx_bBJtWgViEAhRBHsSA24IGFMdXgULZF1cCk4fBWYAGlwlM2gAVAwNWhsUU2gLTAh7MzYCUW4fZhBCbS5SRRJHHlZUDgQHVnsVA24IG1oUVAYHZF5bAU0WAWcJE1wUVA4yVFZaOAtLXjMMH10UbTYyV25tOEsnAF9WdVpGVFILVV0PZhdVSz1BWA9eMwQBXVtbCUgUM20JGlkXbTYyMjw4CQhtfBtSEzoVXFxCLVwLVhxkRm1aRiBTOG9sVh8NYCJqe2t1Zz4UBUVgPSc5OEsnA2wLH1MlXDY",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:10.324Z"
+      "verifiedAt": "2026-08-18T08:57:04.184Z"
     },
     {
       "id": "583745497",
@@ -250,7 +528,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=LOO6woiad2mlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLDiGqMqScPwXw9FtoIj9%2FsgWAmpemjU3BswzKSi0tn941OB3ou%2Fdhkz9y2JT%2F0HiZkJbu79%2B1wQr0TcIixZTmmNqN7G%2FGsLJISVnN6UT7VhWbSWUFpueecYuFHZ56P%2FQuQsolQ5V%2B5TgWOhPhWVBRrUZ9DFlSj9nOdmTtifgesz7%2FD%2BI9mE0kFW1gFv58gOPF0er5MI81%2BSr%2FojUE2ZHH%2B0gkgaW05WxnThv%2Bpw9b%2Bu8cluy1w9kyACTQLQl3UiDerk5oEZwv0ZJMDQVG07AK7A%3D%3D&traceId=0be1e27217870378290797037e0cc2&&union_lens=lensId:TAPI@1787037829@2104ad37_1491_1a013c1481e_8af8@01&cont_id=583745497",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:11.482Z"
+      "verifiedAt": "2026-08-18T08:57:04.187Z"
     },
     {
       "id": "583745070",
@@ -279,7 +557,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=jWhXxCb1uHelhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJjH%2BZP7YhGMABm3wlkJnY3Yd0hbXsJ57ryB2tXTREmmPe8n3QkDJZfI3PTzwWrcf12yZugn64OL7yMW3eIAWKRa6LeGhgJY%2B%2FqQi7yi8trFSdyKLAMTvj%2Bq2kOZPWrLCkm45dl6O2mnl8z5wjjmGbtwAA2RLgu%2FVJ14lBSpsuA%2BSw79adNpEP7XuD1rcd5flAYmWlk5TlKAo%2BymtJFL2qgwZABK20chGpehrSyNU0URlrRL479yrogk5KjMzRsyK0%2Flf8cLuUwgoCGruttYDvNg%3D%3D&traceId=0b5683db17870375887545810e0c3f&&union_lens=lensId:TAPI@1787037588@213f7a7d_144e_1a013bd9d4f_881e@01&cont_id=583745070",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:11.484Z"
+      "verifiedAt": "2026-08-18T08:57:04.233Z"
     },
     {
       "id": "583739876",
@@ -309,7 +587,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583739876&p=JF8BATsJK1olWAUAUl5bDEkWBF8IGloUVQQLVFhbDEgnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWC20BG10TWQUdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKwFFPlRXJy09axlxARlQWlJGAGNaKC5RBHsSA24IGFMdXgULZF1cCk4fBWYAGlwlM2hVVl5aDkoQUGsKHVJ7MzYCUW4fZhhMSycUGFoWWDYAVF9dCEoWCm8NK1sTVAADVlpbDUgTB204G1MSbUZeCQJZDE0WM184GGslbQYyV24DZkpEAzsKEggVM1pAHA4UTw4QbW0LH1kWXgIKZFxcCUkVM184Qlx8WQUBA1sBTjtABxpJfRtSXHtfVQIWaCJ2a2ZmGQccIA8CJhk2XSITfRlrZRprbQYyVF1eDEMnAl8",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:11.714Z"
+      "verifiedAt": "2026-08-18T08:57:04.713Z"
     },
     {
       "id": "583737421",
@@ -338,7 +616,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=aA7eHvvH5sClhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJbdxhW58LZp91GtGJfPjXiYFU7EbBkS3unl0ox%2FPmN1LGRweFyqRiKeFetM9gYVC3RSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0pa6LY79TXq%2FiyiE6m4jprJiJXobW1SHhBErQ30ES8XFMGJQ2jBkJvCmTDt1P4Zpodk4W%2BOW%2F0UNO3dC49ISntvxJDK1hCtERhGBRMJydzqrFo95tmldMQiUx9qHwtFAkDT6dDoyXlaEJWfF71zJXLelgnYn09ViGRvdpOn72qNF%2BOHfs5nLQGA%3D%3D&traceId=213dd1b117870348796361890e13f2&&union_lens=lensId:TAPI@1787034879@0b843de7_1424_1a0139446ce_3de8@01",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:11.826Z"
+      "verifiedAt": "2026-08-18T08:57:04.906Z"
     },
     {
       "id": "583735884",
@@ -367,7 +645,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=DoTlnJdnOB6lhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJuDHXz4rAG3vFDe6Sku2MGr2tc4w4pFIV%2BWQn%2BYFEwAHiE4ZT5%2BNejw3nu0veInDsRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0pa6LY79TXq%2FiyiE6m4jprF9LDf5GMe0nO7ktg3dhyW5MGJQ2jBkJvCmTDt1P4Zpodk4W%2BOW%2F0UNO3dC49ISntlOBYSIqQEnj71HAT%2FPIGenFo95tmldMQuZ8DEzIdd3BhBIn3RaZ4UgPyLEWvcmhfulgnYn09ViGRvdpOn72qNF%2BOHfs5nLQGA%3D%3D&traceId=213f0bcc17870343101985206e0cab&&union_lens=lensId:TAPI@1787034310@213e6c04_1494_1a0138b967c_11f8@01&cont_id=583735884",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:11.948Z"
+      "verifiedAt": "2026-08-18T08:57:04.990Z"
     },
     {
       "id": "583734724",
@@ -394,7 +672,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=f%2FH3VV1pzsVdoqAawkp85SAd78rJKA5EEHGbjhgs%2FwmMFiFW%2FRDw4kEtBZbv320qB87BulwV17jYArMQ5ry5PynkP2ybp4fr2HRTMRAgsfzjAE9ujXs2FnM1jnmPabbATQUP4YGNAw5FIe9B7aM4tn2ls0JhfQj48%2F5ZROAr%2F7Slrotjv1Ner%2BLKITqbiOmsQ6jVfmFxJM1rR9Om9vypwEwYlDaMGQm8KZMO3U%2Fhmmh2Thb45b%2FRQ07d0Lj0hKe2kAOGxMOYqU2EYFEwnJ3OqsWj3m2aV0xC51RR%2BzNhbEIMQ6aKXTtsagYvEYU3eEbt6WCdifT1WIZG92k6fvao0X44d%2BzmctAY&traceId=0b82fa5c17870338814678115e0c61&&union_lens=lensId:TAPI@1787033881@216621fd_14b1_1a013850bbf_4d26@01",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:12.004Z"
+      "verifiedAt": "2026-08-18T08:57:05.074Z"
     },
     {
       "id": "583734451",
@@ -418,10 +696,10 @@
       "availability": "unknown",
       "availabilityLabel": "已到达京东落地页；未公开精确库存",
       "stockCount": null,
-      "checkoutUrl": "https://union-click.jd.com/jdc?e=&p=JF8BAScJK1olVAACXFlbCkwUM28JGl8WWAQFXVteCU0VMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWB2wNGVwcWAUDUlxCUQ5LXl9JT10SP0VVKD4dCwhvBWsJfwFcK3NyWFJtDUsWA2wAE1gWVDYBVVxYAE0eC24PKzV7Dw5RB1pUD01CVjhbdTUlXQMyFTBdDEoUB2c4GVsUXQYDVVddDXsXBWYOGl4VXA4AVVhfOEsfBF9IRwZJWQIEVW5tOEgnM18IK1glA2gDB1cJAUoUUQFUWRNBWFxSETBfCkoXAGwAHWsXXAcAVm5tOChkBBN4WBBKOkVEXSIjUTsScQpBEzpdOURqFBU9ZkkQBipAGC19HgJqUic6YA5QXF8IK1sWXgIKZF9t",
+      "checkoutUrl": "https://union-click.jd.com/jdc?e=&p=JF8BAScJK1olVAACXFlbCkwUM28JGl8WWAQFXVteCU0VMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWB2wNGVwcWAUDUlxCUQ5LXl9wZyZ8FHppBjwmXEp0dj97fQBcCH1EWFJtDUsWA2wAE1gWVDYBVVxYAE0eC24PKzV7XAQAUFYKWxsSBmwAdTUlXQMyFTBdDEoUB2c4GVsUXQYDVVddDXsXBWYOGl4XWAUFUFpYOEsfBF9IRwZJWQIEVW5tOEgnM18IK1glA2gDU1sJCh4UUAFUWRNCBVxHFzBfCksVBGwJGmsXXAcAVm5tOChkBBN4WBBKOkVEXSIjABdWcBVhEzpdOURqFBU9ZkkQBipAGC19HgJqUic6YA5QXF8IK1sWXgIKZF9t",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:12.222Z"
+      "verifiedAt": "2026-08-18T08:57:05.635Z"
     },
     {
       "id": "583733977",
@@ -448,7 +726,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=pyDSsso1Z8ylhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJ3Q2G6ZuFm5WZcewxlPBCS4LHbbKQuVXLrz4ENl4lGrfWnAZrH9f1u15UPOu%2BuxHERSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0pa6LY79TXq%2FiyiE6m4jprGIkMxXz7X6SOQflxMs9naccrN7D60fWECmTDt1P4Zpodk4W%2BOW%2F0UNO3dC49ISntk6A7pUCYy3FkEYMGLLAdjPFo95tmldMQlnwWWuFgb2fkTBnu3%2Bb8BayJAbj9nEXg%2BlgnYn09ViGRvdpOn72qNF%2BOHfs5nLQGA%3D%3D&traceId=0b5d1a9817870336025786441e0cc2&&union_lens=lensId:TAPI@1787033602@214142f8_1470_1a01380ca53_32f4@01&cont_id=583733977",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:12.265Z"
+      "verifiedAt": "2026-08-18T08:57:05.766Z"
     },
     {
       "id": "583733940",
@@ -475,7 +753,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583733940&p=JF8BAR8JK1olXDYCVV9cCEoTBm0IGlIlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQcGUVxdCUIIWipURmscVHVpKjtdYygRGRoLXgZSWWddFTg9BEcnBm8JG1gdVQUBXW5eCUkSC2kBE1oSbWhsAAtfDR5CAWcOTF5AM2gyVFttXiUXAm4JGlIRWAEAZFxdCUsXAm4BG14lXQALUl9fCk8fBmcIHmsVVQEyFAIAVE8TBW44K2sWbTYyVG5eOBV5AmgMGFwdWABsCBwVABRTXTdmGVgWVAYCVVptCkoWAW04K2twHHAFJg0CTRRec2cPXz9hNg97By4lAAMWY21IezUXFk9JDicaDAJ-dWhPXFxwIHkyVG5dC0gTC18JKw",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:12.376Z"
+      "verifiedAt": "2026-08-18T08:57:05.855Z"
     },
     {
       "id": "583730860",
@@ -504,7 +782,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=%2FN6XqIVTuRalhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLAxsU2kfE%2FgX6NX0DIV1wMaX1i8Fx7y%2BnyY3XPLiU%2FyRiswjuESO7xoW8hdzjKu6vawg2WxQ1wHz0TcIixZTmmNqN7G%2FGsLJISVnN6UT7VhWIicqzwqPwgi9YkH5f3%2BvuD6%2FEMcqPXoID3owIzOjKR1EZtWvKfLvFZzIwhQmPEZUPxR2qztiGY4m%2BEG0NFPF5zIG5CjpZ5b1HjzbhNjjKMy21j04VtfYKa1sr%2FcZL%2BV%2B1EkbD2QQhtKIyoh%2FWg%2FEu5M0kZg5qGOw%3D&traceId=0b1bfa0c17870318062707642e0d17&&union_lens=lensId:TAPI@1787031806@2121bc3b_149a_1a013656178_392b@01",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:12.719Z"
+      "verifiedAt": "2026-08-18T08:57:05.857Z"
     },
     {
       "id": "583730629",
@@ -533,7 +811,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=ZThdZr%2BbkvulhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJVjhgyALM2kuO1gAXkLSvMe2RoxmlSmgGNT%2FJPnb%2FFYexj1OdQ035limkWFZBBRUORSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0pa6LY79TXq%2FiyiE6m4jprMNuRdcXl2C9R0Mp5k2ZAkU%2Fx8VPt2xDpgAA2RLgu%2FVJ14lBSpsuA%2BSw79adNpEP7fQsU3H7b04s8rQFoWQt1r0%2BymtJFL2qg0PpMzUza%2FkbkA7Z0EkL4nz4YJYY8vnE6zBJhtjS599k5NppclOvVpCjGwG5%2FUm0S6J7%2BkHL3AEW&traceId=213dd1b117870317225754646e1420&&union_lens=lensId:TAPI@1787031722@21075374_147a_1a013641a93_18a6@01",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:12.728Z"
+      "verifiedAt": "2026-08-18T08:57:05.922Z"
     },
     {
       "id": "583727629",
@@ -560,7 +838,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=7IXGa1u2g6ulhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLgxdIuoWKZRAD0YzFlGnPbk6UCqKT88fNILHVML91GLSWdsqMTJH2dcZTRoRS%2BF0SNED46Fob4P5yBOK%2B8KjzSqkIu8ovLaxUm%2FkwoUPrLpS2ASVotmzKz1U5PaNelY5i2bVllbbldn4OFzR44pC6b0rHm6EWHJ%2FIHzZQizlZKge8%2FKuvXu%2BmtNe9jmICPCUQk9xwCDufQynifmSUighahuHk677FDO4jzQ37pMpRphXXlIeCFm5U2prFNBQuQgInAhq7rbWA7zY%3D&traceId=213dd1a817870306746453600e0f18&&union_lens=lensId:TAPI@1787030674@2104ad37_1491_1a013541d13_0da1@01&cont_id=583727629",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:12.990Z"
+      "verifiedAt": "2026-08-18T08:57:05.981Z"
     },
     {
       "id": "583726110",
@@ -589,7 +867,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=Sp9NIYzY7ZClhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJbEpwbvvc1Xxfk0TJCW9t9aAIYMxuaGfKsAHXosN3YVcOb1OwqqnVppcDuJgvJv51SrnKwHOurvUk7BbPIUYUjKWui2O%2FU16v4sohOpuI6awXPut83fajX8e6GztG12%2BcVzNzw3NIwUwpkw7dT%2BGaaHZOFvjlv9FDTt3QuPSEp7aQA4bEw5ipTYRgUTCcnc6qxaPebZpXTEK6SvogdHxHZMf0kfwCtsgyjBcu0lt%2FGcPxywdACG7VmCcz4tLXk8S2qnvkrv%2FI6vglM1ZJHcLCJg%3D%3D&traceId=212b34f917870301776985682e0cf1&&union_lens=lensId:TAPI@1787030177@2104a538_1490_1a0134c8805_df78@01&cont_id=583726110",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:13.319Z"
+      "verifiedAt": "2026-08-18T08:57:06.539Z"
     },
     {
       "id": "583725068",
@@ -616,7 +894,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=583725068&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-08-18T08:18:13.452Z"
+      "verifiedAt": "2026-08-18T08:57:06.631Z"
     },
     {
       "id": "583725044",
@@ -645,7 +923,7 @@
       "checkoutUrl": "https://uland.taobao.com/taolijin/edetail?eh=ekeCpmEvuJCmROBqjtjlgDEyWfaeaKKxmwq&es=8WknidDGhuFCyiVDlX7lOBY6E%2BFZUFGtRn0MWVKP2c5oNAbz5bwp%2FD0Jr%2BA%2BprIbj7QqVPMkc0%2Bzm7c%2Fgq9%2Bm%2FbT5cyQXI3BoJylrqaBl1VMs%2FzAkQN3P4rayq6GCvdWPXDvUs3zXM550b%2FWwPCjXPF1k0IeS36N00a1NOV74JJJYkSn1YHRgnBkz9sIfpEoL%2FgFZ%2FDaKWkM1Lyuc4QrjGIQ6SGuJvKB&union_lens=lensId%3ATAPI%401787029851%402166c29c_14c3_1a013478ef5_c0dc%4001%3Btraffic_flag%3Dlm",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:13.454Z"
+      "verifiedAt": "2026-08-18T08:57:06.647Z"
     },
     {
       "id": "583722268",
@@ -674,7 +952,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=0uklx9rFQKelhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLrD8bPCNHqbuaJhzef3rs%2FZmheusvLCgHwZVgbBtqAo6gc%2FHo%2Bh8K%2BRbmXWulrU%2FUWYu9rsqK4cq4bVlo0QJT9KuBcrQXIlHC0sDn%2FY%2FHYLuVyvdC4acZQ9v%2B49CIV43KQsolQ5V%2B5TgWOhPhWVBRrUZ9DFlSj9nOx7N4eXma0d8NGb0xTbzOlG1gFv58gOPF0er5MI81%2BSrKtZXS8LMLLv%2FqVT09M%2Bi5l8SlxnzaPt3F2HK1EWErJt7gwl7IyUzWhAlwBqUZweRlBRYM90QVRw%3D%3D&traceId=212b2aaf17870287000711413e0c2a&&union_lens=lensId:TAPI@1787028700@2166c47e_146b_1a01335fbdf_99ae@01",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:13.694Z"
+      "verifiedAt": "2026-08-18T08:57:06.835Z"
     },
     {
       "id": "583721626",
@@ -703,96 +981,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=jRMuSl0bhDKlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJgdTV8P0EJicDaA1hAtXN9vvEEgTBOwaIgAsrhauE15izcvGKYOHj9CBixeg35RhXRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0pa6LY79TXq%2FiyiE6m4jprCCKN%2FgClb0dZkhMxSOdubQaFXulWIIcTCmTDt1P4Zpodk4W%2BOW%2F0UNO3dC49ISntiXMI3cJREz4W5iUklH766nFo95tmldMQp3%2BO%2BBSoFa%2BPXFlJfZtx1E04A1l1%2B1DEOlgnYn09ViGRvdpOn72qNF%2BOHfs5nLQGA%3D%3D&traceId=2166d56217870291101525141e0c9d&&union_lens=lensId:TAPI@1787029110@2150931d_1403_1a0133c3dc1_49c0@01&cont_id=583721626",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:13.785Z"
-    },
-    {
-      "id": "583715027",
-      "title": "再降价、雪花沈阳老雪500ml×9听+沈阳啤酒500ml×6听",
-      "priceText": "34.3元+1.09金币（返卡10），超级补贴加购",
-      "price": 34.3,
-      "payablePrice": 34.3,
-      "unitPrice": null,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "08-18 12:11",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01d5vC5M1h0yxO1FjzK_!!6000000004216-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583715027&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "含返卡"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达天猫超市落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=NGT8HMF6Uh%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJJ9L0NkqSVUJgXW0P9Oa%2FgOaZ3k8MYHkm7jMPLoBv45NunnKb85RzE307ZINdF9pgRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0pa6LY79TXq%2FiyiE6m4jprIFxXoo4aGN4KA6%2BjyEBhrSB9Nz1%2BmrudQAA2RLgu%2FVJ14lBSpsuA%2BSw79adNpEP7dvpNcwK9TJt4S%2BdmMr1xpw%2BymtJFL2qg0PpMzUza%2Fkb0AVeCOqhK0b7mk6kmlhR%2B0A2qbmlrzFkG0LlJ9DeT1DkzSRmDmoY7A%3D%3D&traceId=0b5683db17870262677196491e0c95&&union_lens=lensId:TAPI@1787026267@21666f14_145b_1a01310de7f_4de7@01",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:13.939Z"
-    },
-    {
-      "id": "583712437",
-      "title": "哈尔滨啤酒 哈啤醇爽9度 330ml×24听",
-      "priceText": "22.85元（需凑单）",
-      "price": 22.85,
-      "payablePrice": 22.85,
-      "unitPrice": null,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "08-18 11:57",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01AoMN5s1RHtYsN3c2T_!!6000000002087-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583712437&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "需凑单"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达天猫超市落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=aL3Tw5yXzwClhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJb5e7Ci5nY90EZsZchYm%2BP40dDH1EdrvpetUn99hDx193NCOK%2FgDXRPpoZ1hImomJ8jpUO8I8Sl12hpSzkXEPijTU8DC75RBx2o3sb8awskhJWc3pRPtWFXH6X7NAQDcUyxe%2Fx0kH1vCV7TDzmrLQe5VwIEXDgs9ZC7y27DGLoYtC3947oDd%2BGNNadxxmChUjLID3UwPAHVZhM2XidGlJtbcZelJt%2BzjyXYWodn7tkFJhWfigCbqtqkA2qbmlrzFkG0LlJ9DeT1DkzSRmDmoY7A%3D%3D&traceId=2166d56917870253998208100e0f5d&&union_lens=lensId:TAPI@1787025399@2108aae2_14fc_1a01303a03f_c311@01&cont_id=583712437",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:14.057Z"
-    },
-    {
-      "id": "583709275",
-      "title": "古井贡酒 年份原浆 古5 浓香白酒 50度 500ml*1瓶+凑单",
-      "priceText": "80.87元+7.19元淘金币（需凑单，返超市卡5元）",
-      "price": 80.87,
-      "payablePrice": 80.87,
-      "unitPrice": null,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "08-18 11:35",
-      "image": "https://zhekou-background.manmanbuy.com/image/baoliao/3964b347bd131e2f7cd557026fec4af6/20260818113405_b62de4a5-e3d5-405d-97ae-3938136a04c8.jpg?x-oss-process=image%2Fformat%2Cjpg%2Fquality%2Cq_80",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583709275&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币",
-        "需凑单",
-        "含返卡"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达天猫超市落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=khcVYG7qA7ilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJ8njSEAfT3CWDoP9OBPEJAdB6jOHWOGOx2pHkKcv9ReEpHos1Mu6CSs7mMc7TrON2RSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0pa6LY79TXq%2FiyiE6m4jprAwgBjhEgum4lY3JdIEJxB2Ywek19h0d0KLfjC%2BNSihLiBJSUggSMOYSXQ%2BuuMIk2sbmu4AL6A4Dz99bPbXQvUpwomPHseysTWHl8x0VBrcIlY3JdIEJxB2XxKXGfNo%2B3UD7Zt2L9ivYfu%2Bo4pJ%2FRN5VbrKqp4Yn8g%3D%3D&traceId=0b5683db17870241863025975e0c6d&&union_lens=lensId:TAPI@1787024186@2104a538_1490_1a012f11bf7_ced5@01&cont_id=583709275",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:14.405Z"
+      "verifiedAt": "2026-08-18T08:57:07.258Z"
     },
     {
       "id": "583638137",
@@ -821,7 +1010,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=UGzYlqbri4KlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJxf12lyYMCk1lhE%2BjtoZ2%2BIricG%2FssBHvCr92%2BKr00sJQylEymEzw2sEwSZWozKcHRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0pa6LY79TXq%2FiyiE6m4jprEdsf3C%2B6RiUNYOeSkERluxMGJQ2jBkJvCmTDt1P4Zpodk4W%2BOW%2F0UNO3dC49ISntrUtGJwbtj6C8u8Q3IvyMyrFo95tmldMQqs%2FxHzZmv6gCV0FrMbeIYez4VHp0EpMJXJ8I%2Fu9nUa59PGjzBAAR2qqe%2BSu%2F8jq%2BCUzVkkdwsIm&traceId=212b296817870304611102828e0c53&&union_lens=lensId:TAPI@1787030461@210474bb_14df_1a01350db35_2ea4@01&cont_id=583638137",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:14.454Z"
+      "verifiedAt": "2026-08-18T08:57:07.263Z"
     },
     {
       "id": "583499881",
@@ -851,7 +1040,7 @@
       "checkoutUrl": "https://uland.taobao.com/taolijin/edetail?eh=XqdcgYADtgCkVQvLGhYpOYayBfOpOvvnkdo&es=IcZO7vFH2J5CyiVDlX7lOBY6E%2BFZUFGtRn0MWVKP2c52ZO2J%2BB6zPvh9XPbN8ckpj7QqVPMkc0%2Bzm7c%2Fgq9%2Bm%2FbT5cyQXI3BoJylrqaBl1VMs%2FzAkQN3P4rayq6GCvdWUo9ze2ke%2F%2B%2BXP3aouRSrmmGWsQgwmfs60FyuNh8l9%2BNNHMYFhndnLTxD5qpGzBcTY2HZXmZG%2BYhktvrpd2v7nMAxkYcOa0t3&union_lens=lensId%3ATAPI%401786949732%40212799b5_144e_1a00e8108d1_b262%4001%3Btraffic_flag%3Dlm",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:14.539Z"
+      "verifiedAt": "2026-08-18T08:57:07.394Z"
     },
     {
       "id": "583221496",
@@ -880,7 +1069,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583221496&p=JF8BAfQJK1olWAUAUVxbD0kXC18IGlodWwACUVZZCEgRBV9MRANLAjZbERscSkAJHTRQRA1CCVkdDwtCWhVLHTdNTwcKBENeCVAfUg8bZTtJTzNsGmMDF10_XENpc2oMfyFvOllRHyVffSJ5AQpgWCFTAVNQNQI-UgMeCg10DBsZKX9yMSc-cwpjeg9Ybzh2H3FdBgY5bDtRdydVbTlcLUBiDy47bxFrShh6GyJ3FEBCIwYHYSleayl8GQlxJHVLAyoCfChgSjpJbFlpOHFgNAA-ek9uYwhaaDBcLXZ1HRcYfzJodAxSTh9iNFBmIC05Dz1ldwlxeB0dKll2MyoEewpjXDVvb1pqCnJ7KD0pezhXdDB0ey9NPRIAIW4EVSN0WRlNYzh-Ow5iFlkHAC9PSztOF1clWAYDVF1VAEgUCl8LGlkQVQALXF9aOCV5ATtcSVwdWQAHAVpUZiUnA2o4WjUTXgcKUl5tCksWA28JGlIVWDYCUldaAEkUA2gKGVgUbQYKU24dVBZLB2sOGmslbQUyZG5dC3sUMzFmGlxFCQICUwwzVAlRXmdNQAJ7XgMCU11YDEknAW4JGVklbTZkAB8JYDJQZm5LGDlBVXhyUVo5cjFwXDxDYFlgNGgAMTYecg1LVj1pRzhPFQ8LNiJtCHsXAGwME2sUbQ",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:14.787Z"
+      "verifiedAt": "2026-08-18T08:57:07.461Z"
     },
     {
       "id": "583204532",
@@ -909,7 +1098,7 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=ZzZxpB8HTUmlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJG3q5CYU2%2B7knl0YIqTCwKT6I8%2FDXBMisHcD6KwA%2Beafv2cejs4aKfO9mYQRRPi3Xtyy0%2FuXIS%2BryMW3eIAWKRa6LeGhgJY%2B%2FqQi7yi8trFSdyKLAMTvj%2BmfuX4l249SGFpYPWR0yOBrt8aj%2BCXEPQgAA2RLgu%2FVJ14lBSpsuA%2BSw79adNpEP7dvpNcwK9TJt4S%2BdmMr1xpw%2BymtJFL2qgxKrVI2oKIxqC81OKyRbxvQPg2inlKHn2k5KjMzRsyK0%2Flf8cLuUwgoCGruttYDvNg%3D%3D&traceId=0b1feb9917869452700253007e0c6a&&union_lens=lensId:TAPI@1786945270@2132c26b_1482_1a00e3cf145_0760@01&cont_id=583204532",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:15.109Z"
+      "verifiedAt": "2026-08-18T08:57:07.575Z"
     },
     {
       "id": "583197031",
@@ -938,67 +1127,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=583197031&p=JF8BAcoJK1olWAUAUFZeCU4XC18IGloVWgcLUFZVCUsnRzBQRQQlBENHFRxWFlVMWzBeTA9KQl1XSwwDVFVPRjtUBAJQAVsMFgQZBBAeRmtwRjNdDWEHCTcpaz9rZRFVGA4UOABXHChYZklxdyljY1oUHF1HPQUOCjETW3hIFy9sLWN1NyEZfiJzUxZrfBxtKGFwNgQ9CitlCgxqQTNRKWN6NjxceABgcWZofyhhX3FaXCk_UjsSYxZzayB2NkJ0PQg4fyheRxthYwN9AmJxNBYpaigXCy9sbidNKmV9Fik0fC1uYDpMbS9hSQR3ZCI-D04RXy5oeA8PLgR7FBoqdBNBZA8EF2sQXQcCV1ZVC0geM2wJGV4dWw8KVVltZiUeVz9fT1wWWVVWBwkzZnsXBl9edVsUXAcDXV9fD04nAW8JG1sUXA8CUW5dDkIQCmsIG18SXg4KZF5VD3tXXzJUH18TXDYyZF1tOHsXAF8LKwV7XAEGV1taDU15Xy1PE1tPWF5sVFddAUoTCmg4GVoUXwQyZG4GAQ4TezJgUwtyWFtrID0pdC1pXmxdGj4TCE50UTBfbj9RaBcJGhpOGG9ZB1wnDBMnA18IGFgRVTYDZA",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:15.136Z"
-    },
-    {
-      "id": "583080987",
-      "title": "GRAFSKAYA格拉夫 40度 红牌伏特加 500ml",
-      "priceText": "9元(需首购、plus会员)",
-      "price": 9,
-      "payablePrice": 9,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "08-18 12:20",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/235874/11/16176/84930/663b7e51F00596c43/3a1726ee301b40d9.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583080987&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "限首购",
-        "需入会"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://union-click.jd.com/jdc?e=583080987&p=JF8BAT0JK1olWAYFVV1YD08QAl8IGloUWwUFV1dZDE0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBWwPGFIRWQAdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIK1oQQ29fBlkDaBZtQClSBSMWOUNdPT5RBHsSA24IGFMdXgULZF1cCk4fBWYAGlwlM2hXVVpUCxgQUDsIGgt7MzYCUW4PZkMfC2gJHVIRXQQKZFxdCUsXAm4BG14lXQALU1ddCU0XB2wPH2sVVQEyFAIAVE8TBW44K2sWbTYyVG5eOBV5AmgMH1NAX1RsCBwZUgNUXGlmG18RXgULVF1tCkoWAW04K2t2GH0ADF8UTE0VeQkKSToQPGN7HR40fgxTUwZ-HjUXD0FjN1cVaBYWeG1tcCATJwUyVG5dC0gTC18JKw",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:15.278Z"
-    },
-    {
-      "id": "583004320",
-      "title": "汾酒黄盖玻汾 53度475ml×3瓶 + 金标450ml×3瓶",
-      "priceText": "163.83元+27.92元淘金币（需凑单）",
-      "price": 163.83,
-      "payablePrice": 163.83,
-      "unitPrice": null,
-      "platform": "天猫",
-      "mall": "天猫旗舰店",
-      "published": "08-18 11:48",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01IAoPe91xmBZDTj8Vx_!!6000000006485-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=583004320&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币",
-        "需凑单"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达天猫落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=tHn1EkJ8cIalhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJd6bhGTJ539AI%2FB4asDxiTycN5knMnlvEQ2WM99P6SpGixMVLqdZJWFmVU8r6xfkGwp9d3J5hNULyMW3eIAWKRa6LeGhgJY%2B%2FqQi7yi8trFSdyKLAMTvj%2BmYQB5VH70pBgrbkkvWvLvaCwbs%2FPoSyugAA2RLgu%2FVJ14lBSpsuA%2BSw79adNpEP7Q5UxL90yAoM0yGaNyHFYYA%2BymtJFL2qgwRKGiDeDrHuqgEBcHqAhrsqz4k2YMSKRPkVBiDVoonhK1fqIYPV4znkzSRmDmoY7A%3D%3D&traceId=0bf89d0117867849498927106e0ce6&&union_lens=lensId:TAPI@1786784949@216621fd_14b1_1a004aea6b4_5f58@01&cont_id=583004320",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至天猫；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:15.310Z"
+      "verifiedAt": "2026-08-18T08:57:07.913Z"
     },
     {
       "id": "582985240",
@@ -1027,7 +1156,7 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=582985240&p=JF8BASoJK1olXwcEUV9ZDkwUBF8IGlgUVQEBUF9aD0kWBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAG4AHFgRXAEFVl9aFxJSXzI4YTx-AV1DK149DjlAexZzc1xVNhh1ElJROE4XAm8LE1MWXg8yV19fDUMRCmcJHGt7MwFSXVYOW0kWB2YAHjV7bQYHZB8zCEgVBW8AHlIlXwYDVF5cCUIXBl8IHVISWwALU1tcDkMWM28AHGtVAVteUFpbCXsnM2w4K2sVbQUyCjBcD08TBWgKEjVJH0ICEw4YVSUXAGcKG1IRXTYAVV9fCnsnMy94bAJLK3JiLisLWhITZxNTHixoPA5xIQ0bDShybW1TQVNuI11nIA0CARRie24PeWsVbQYBV1pVOEon",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:15.832Z"
+      "verifiedAt": "2026-08-18T08:57:07.986Z"
     },
     {
       "id": "582971323",
@@ -1054,7 +1183,37 @@
       "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=hwX5MxgrYjylhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJS4%2Fbs5pk8NJJpZYT%2B7iP3ftrsr%2FmhwiBZHqWhNmfHlNZMXeEZ7Z7rLEZGcGKkMKyRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0pa6LY79TXq%2FiyiE6m4jprCAPRwo773IaU88pOFLSRVzM%2FqkOhugh%2FimTDt1P4Zpodk4W%2BOW%2F0UNO3dC49ISntrHLkRRI0Ib0K8BodGHQ9RDFo95tmldMQjZEBuWGZyqPIEpp2Vf0CnpgbYBqTxTm0ulgnYn09ViGRvdpOn72qNF%2BOHfs5nLQGA%3D%3D&traceId=212b34f917867756281902538e0d13&&union_lens=lensId:TAPI@1786775628@21671615_1437_1a0042069d7_d827@01",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:16.100Z"
+      "verifiedAt": "2026-08-18T08:57:08.036Z"
+    },
+    {
+      "id": "582942286",
+      "title": "88VIP：百威 醇正啤酒红罐装 450ml*18听*1箱",
+      "priceText": "56元（需凑单）",
+      "price": 56,
+      "payablePrice": 56,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "08-18 16:49",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN014AEAH71virW9UGm1C_!!6000000006207-0-yinhe.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=582942286&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需 88VIP",
+        "需凑单"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "已到达天猫超市落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://uland.taobao.com/coupon/edetail?e=0H4%2FOmJYycSlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJkJObjwqUxnWfZ7JPqhIatgmruZRfxb%2Be7GpSTERvIvDjosu3gsEDvx3KrOxHN2UvOdDm46FXSDfyMW3eIAWKRa6LeGhgJY%2B%2FqQi7yi8trFSdyKLAMTvj%2Bs3E3MgMGkBSpnWY99k%2FTnklGJnmy81naQAA2RLgu%2FVJ14lBSpsuA%2BSw79adNpEP7YWwXjflDrtjcaZPTNOq3bE%2BymtJFL2qgwRKGiDeDrHutuX%2B8oj4j50GDYadXUIKrU5KjMzRsyK0%2Flf8cLuUwgoCGruttYDvNg%3D%3D&traceId=0b5683db17867638194572055e0c95&&union_lens=lensId:TAPI@1786763819@212b4879_1466_1a0036c3a01_5956@01&cont_id=582942286",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至天猫超市；未公开精确库存",
+      "verifiedAt": "2026-08-18T08:57:08.366Z"
     },
     {
       "id": "582478399",
@@ -1081,13 +1240,13 @@
       "checkoutUrl": "https://union-click.jd.com/jdc?e=582478399&p=JF8BAckJK1olWAUAVl1UCUIVAl8IGloVWAUFU1lYCk8nRzBQRQQlBENHFRxWFlVMWzBeTA9KQl1XSwwDVFVPRjtUBAJQAVsMFgQZBBAeRj9wbFhnCntECTckADBkWxN8GCRNKkRwEB9YZklxdyljY1oUHF1HPQU_AExXW3hIFy9sLWN1Nykff0l_ZBt7cBhtKGJhNgdcCihfCgZqQidRKk16BDwUYABhcWd7fy91X3JKXT0_UihVYzBafSB2NkF2PSo9fzgXXRthSQN9AmJxNBUcejxzUWlsRDtNKmVXCiokeC9jYBBNbFphSQR3ZBoVARdpQiZweTwSNARBFxs1VzdFBB8EF2sQXQcCV1ZVC0geM2wJGV4dWw8KVVltZiVEV2pYE1hFCQIDVwszZnsXBl9KdY-p4tOLyA0GUQAnAW8JG1sUXA8CUW5dDkIQBGkNH1MXWw4KZF5VD3tXXzJUH18TXDYyZF1tOHsXAF8LKwV7XAEEVVtUCR95Xy1KSBITAU1sUVZYCEoSAV8KGloXXzYyZAVUTRtvdGx6TCZTAG97XCUuUDdjABBQbBlnGUcHOlw7fA18e24JWgBQNF1gXFkdUHsXM28LGF8dbQcy",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-08-18T08:18:16.285Z"
+      "verifiedAt": "2026-08-18T08:57:08.584Z"
     }
   ],
-  "checkedAt": "2026-08-18T08:18:22.136Z",
+  "checkedAt": "2026-08-18T08:57:15.989Z",
   "pagesRead": 12,
   "errors": 0,
-  "platformVerified": 37,
+  "platformVerified": 43,
   "source": "公开优惠流发现 + 电商平台落地链接二次核验",
   "sources": [
     {
@@ -1096,8 +1255,8 @@
       "url": "https://m.tuihaowu.com/cuxiao.aspx",
       "status": "live",
       "label": "已读取 12/12 页真实优惠",
-      "checkedAt": "2026-08-18T08:18:22.134Z",
-      "itemCount": 38
+      "checkedAt": "2026-08-18T08:57:15.987Z",
+      "itemCount": 44
     },
     {
       "id": "taobao",
@@ -1106,7 +1265,7 @@
       "marker": {},
       "status": "authorization_required",
       "label": "公开页未返回商品结构；稳定接入需开放平台授权",
-      "checkedAt": "2026-08-18T08:18:18.296Z",
+      "checkedAt": "2026-08-18T08:57:10.975Z",
       "itemCount": 0,
       "httpStatus": 200,
       "verifiedCount": 0
@@ -1116,11 +1275,12 @@
       "name": "天猫官网",
       "url": "https://list.tmall.com/search_product.htm?q=%E7%99%BD%E9%85%92",
       "marker": {},
-      "status": "error",
-      "label": "读取失败：TypeError",
-      "checkedAt": "2026-08-18T08:18:18.297Z",
+      "status": "authorization_required",
+      "label": "公开页未返回商品结构；稳定接入需开放平台授权",
+      "checkedAt": "2026-08-18T08:57:10.976Z",
       "itemCount": 0,
-      "verifiedCount": 23
+      "httpStatus": 200,
+      "verifiedCount": 22
     },
     {
       "id": "jd",
@@ -1129,10 +1289,10 @@
       "marker": {},
       "status": "blocked",
       "label": "公开搜索触发风控；保留平台落地页核验",
-      "checkedAt": "2026-08-18T08:18:18.297Z",
+      "checkedAt": "2026-08-18T08:57:10.976Z",
       "itemCount": 0,
       "httpStatus": 200,
-      "verifiedCount": 14
+      "verifiedCount": 21
     },
     {
       "id": "pdd",
@@ -1141,7 +1301,7 @@
       "marker": {},
       "status": "blocked",
       "label": "公开搜索触发风控；保留平台落地页核验",
-      "checkedAt": "2026-08-18T08:18:18.941Z",
+      "checkedAt": "2026-08-18T08:57:11.601Z",
       "itemCount": 0,
       "httpStatus": 200,
       "verifiedCount": 0
@@ -1151,11 +1311,10 @@
       "name": "唯品会官网",
       "url": "https://category.vip.com/suggest.php?keyword=%E7%99%BD%E9%85%92",
       "marker": {},
-      "status": "authorization_required",
-      "label": "公开页未返回商品结构；稳定接入需开放平台授权",
-      "checkedAt": "2026-08-18T08:18:19.189Z",
+      "status": "error",
+      "label": "读取失败：TypeError",
+      "checkedAt": "2026-08-18T08:57:12.293Z",
       "itemCount": 0,
-      "httpStatus": 200,
       "verifiedCount": 0
     },
     {
@@ -1165,7 +1324,7 @@
       "marker": {},
       "status": "blocked",
       "label": "公开搜索触发风控；保留平台落地页核验",
-      "checkedAt": "2026-08-18T08:18:20.040Z",
+      "checkedAt": "2026-08-18T08:57:12.631Z",
       "itemCount": 0,
       "httpStatus": 202,
       "verifiedCount": 0
