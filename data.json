@@ -28,7 +28,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:05.609Z"
+      "verifiedAt": "2026-09-25T21:57:43.900Z"
     },
     {
       "id": "591072721",
@@ -57,7 +57,34 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:05.610Z"
+      "verifiedAt": "2026-09-25T21:57:43.900Z"
+    },
+    {
+      "id": "591516968",
+      "title": "古井贡酒 年份原浆古5 浓香型白酒 50度 500ml×2瓶",
+      "priceText": "196.84元",
+      "price": 196.84,
+      "payablePrice": 196.84,
+      "unitPrice": null,
+      "platform": "天猫",
+      "mall": "天猫商城",
+      "published": "09-26 05:51",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01kMe8PT1wDXeT5pNUt_!!6000000006274-2-yinhe.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591516968&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591516968&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T21:57:43.900Z"
     },
     {
       "id": "591495188",
@@ -84,7 +111,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:05.610Z"
+      "verifiedAt": "2026-09-25T21:57:43.900Z"
     },
     {
       "id": "591492484",
@@ -111,7 +138,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591492484&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:05.610Z"
+      "verifiedAt": "2026-09-25T21:57:43.901Z"
     },
     {
       "id": "591490756",
@@ -138,7 +165,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:05.610Z"
+      "verifiedAt": "2026-09-25T21:57:43.901Z"
     },
     {
       "id": "591488439",
@@ -169,7 +196,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591488439&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:05.610Z"
+      "verifiedAt": "2026-09-25T21:57:45.765Z"
     },
     {
       "id": "591488260",
@@ -200,7 +227,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591488260&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:07.956Z"
+      "verifiedAt": "2026-09-25T21:57:45.898Z"
     },
     {
       "id": "591488181",
@@ -229,7 +256,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591488181&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:07.989Z"
+      "verifiedAt": "2026-09-25T21:57:45.904Z"
     },
     {
       "id": "591487405",
@@ -256,7 +283,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:08.268Z"
+      "verifiedAt": "2026-09-25T21:57:45.905Z"
     },
     {
       "id": "591485785",
@@ -283,7 +310,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:08.269Z"
+      "verifiedAt": "2026-09-25T21:57:46.217Z"
     },
     {
       "id": "591485662",
@@ -310,7 +337,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:08.556Z"
+      "verifiedAt": "2026-09-25T21:57:46.225Z"
     },
     {
       "id": "591482656",
@@ -337,7 +364,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:08.672Z"
+      "verifiedAt": "2026-09-25T21:57:46.507Z"
     },
     {
       "id": "591482216",
@@ -364,7 +391,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:08.788Z"
+      "verifiedAt": "2026-09-25T21:57:46.635Z"
     },
     {
       "id": "591481883",
@@ -395,7 +422,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591481883&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:08.850Z"
+      "verifiedAt": "2026-09-25T21:57:46.641Z"
     },
     {
       "id": "591480922",
@@ -425,7 +452,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591480922&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:09.093Z"
+      "verifiedAt": "2026-09-25T21:57:46.664Z"
     },
     {
       "id": "591480216",
@@ -456,7 +483,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591480216&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:09.098Z"
+      "verifiedAt": "2026-09-25T21:57:46.947Z"
     },
     {
       "id": "591477558",
@@ -487,7 +514,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591477558&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:09.411Z"
+      "verifiedAt": "2026-09-25T21:57:46.975Z"
     },
     {
       "id": "591475570",
@@ -518,7 +545,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591475570&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:09.545Z"
+      "verifiedAt": "2026-09-25T21:57:47.237Z"
     },
     {
       "id": "591475503",
@@ -547,7 +574,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:09.618Z"
+      "verifiedAt": "2026-09-25T21:57:47.367Z"
     },
     {
       "id": "591473820",
@@ -578,7 +605,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591473820&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:09.667Z"
+      "verifiedAt": "2026-09-25T21:57:47.386Z"
     },
     {
       "id": "591472559",
@@ -605,7 +632,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591472559&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:09.961Z"
+      "verifiedAt": "2026-09-25T21:57:47.426Z"
     },
     {
       "id": "591467175",
@@ -632,7 +659,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:09.972Z"
+      "verifiedAt": "2026-09-25T21:57:47.681Z"
     },
     {
       "id": "591463084",
@@ -663,7 +690,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591463084&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:10.247Z"
+      "verifiedAt": "2026-09-25T21:57:47.738Z"
     },
     {
       "id": "591462681",
@@ -694,7 +721,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591462681&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:10.383Z"
+      "verifiedAt": "2026-09-25T21:57:47.977Z"
     },
     {
       "id": "591452671",
@@ -723,7 +750,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:10.501Z"
+      "verifiedAt": "2026-09-25T21:57:48.120Z"
     },
     {
       "id": "591450994",
@@ -752,7 +779,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591450994&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:10.549Z"
+      "verifiedAt": "2026-09-25T21:57:48.132Z"
     },
     {
       "id": "591450711",
@@ -781,7 +808,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591450711&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:10.792Z"
+      "verifiedAt": "2026-09-25T21:57:48.169Z"
     },
     {
       "id": "591445894",
@@ -808,34 +835,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591445894&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:10.805Z"
-    },
-    {
-      "id": "591445340",
-      "title": "剑南春 52度 水晶剑 白酒 500mL",
-      "priceText": "364元",
-      "price": 364,
-      "payablePrice": 364,
-      "unitPrice": null,
-      "platform": "淘宝",
-      "mall": "淘宝",
-      "published": "09-25 17:17",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01owhUkh1ipBkqCubma_!!6000000004461-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591445340&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "优惠线报活跃；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591445340&f=weixinlist&mmb=mmbmobile",
-      "verificationStatus": "source_only",
-      "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:11.163Z"
+      "verifiedAt": "2026-09-25T21:57:48.432Z"
     },
     {
       "id": "591444089",
@@ -862,7 +862,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:11.305Z"
+      "verifiedAt": "2026-09-25T21:57:48.495Z"
     },
     {
       "id": "591402378",
@@ -891,7 +891,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:11.351Z"
+      "verifiedAt": "2026-09-25T21:57:48.714Z"
     },
     {
       "id": "591397020",
@@ -918,7 +918,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:11.412Z"
+      "verifiedAt": "2026-09-25T21:57:48.868Z"
     },
     {
       "id": "591396943",
@@ -948,34 +948,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:11.614Z"
-    },
-    {
-      "id": "591396784",
-      "title": "再降价：五粮液 尖庄高光 52°浓香型白酒 500mL×2瓶",
-      "priceText": "84.53元，低至79.28",
-      "price": 84.53,
-      "payablePrice": 84.53,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 17:16",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/25829/10/22588/87383/66d2796bF35460810/bcb0671298510dbc.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591396784&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:11.619Z"
+      "verifiedAt": "2026-09-25T21:57:48.876Z"
     },
     {
       "id": "591358508",
@@ -1002,7 +975,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:12.012Z"
+      "verifiedAt": "2026-09-25T21:57:48.914Z"
     },
     {
       "id": "591289844",
@@ -1029,7 +1002,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:12.147Z"
+      "verifiedAt": "2026-09-25T21:57:49.159Z"
     },
     {
       "id": "591236949",
@@ -1059,7 +1032,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591236949&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:12.186Z"
+      "verifiedAt": "2026-09-25T21:57:49.269Z"
     },
     {
       "id": "591214634",
@@ -1090,7 +1063,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591214634&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:12.240Z"
+      "verifiedAt": "2026-09-25T21:57:49.443Z"
     },
     {
       "id": "591191636",
@@ -1120,7 +1093,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591191636&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:12.451Z"
+      "verifiedAt": "2026-09-25T21:57:49.609Z"
     },
     {
       "id": "591183002",
@@ -1149,7 +1122,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591183002&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:12.469Z"
+      "verifiedAt": "2026-09-25T21:57:49.613Z"
     },
     {
       "id": "591144103",
@@ -1176,7 +1149,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:12.880Z"
+      "verifiedAt": "2026-09-25T21:57:49.668Z"
     },
     {
       "id": "591137456",
@@ -1205,7 +1178,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:12.991Z"
+      "verifiedAt": "2026-09-25T21:57:49.879Z"
     },
     {
       "id": "591131532",
@@ -1232,7 +1205,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:13.025Z"
+      "verifiedAt": "2026-09-25T21:57:50.026Z"
     },
     {
       "id": "591131011",
@@ -1262,7 +1235,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591131011&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:13.295Z"
+      "verifiedAt": "2026-09-25T21:57:50.218Z"
     },
     {
       "id": "591130638",
@@ -1289,7 +1262,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:13.308Z"
+      "verifiedAt": "2026-09-25T21:57:50.354Z"
     },
     {
       "id": "591041256",
@@ -1319,7 +1292,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591041256&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:13.495Z"
+      "verifiedAt": "2026-09-25T21:57:50.381Z"
     },
     {
       "id": "590973510",
@@ -1350,7 +1323,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590973510&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:13.704Z"
+      "verifiedAt": "2026-09-25T21:57:50.408Z"
     },
     {
       "id": "590844766",
@@ -1380,7 +1353,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590844766&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:13.836Z"
+      "verifiedAt": "2026-09-25T21:57:50.655Z"
     },
     {
       "id": "590623816",
@@ -1410,7 +1383,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590623816&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:13.867Z"
+      "verifiedAt": "2026-09-25T21:57:50.800Z"
     },
     {
       "id": "590613546",
@@ -1437,7 +1410,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:14.116Z"
+      "verifiedAt": "2026-09-25T21:57:50.939Z"
     },
     {
       "id": "590607011",
@@ -1464,7 +1437,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:14.150Z"
+      "verifiedAt": "2026-09-25T21:57:51.079Z"
     },
     {
       "id": "590606250",
@@ -1493,7 +1466,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T18:56:14.335Z"
+      "verifiedAt": "2026-09-25T21:57:51.098Z"
     },
     {
       "id": "590500729",
@@ -1522,7 +1495,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590500729&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:14.557Z"
+      "verifiedAt": "2026-09-25T21:57:51.142Z"
     },
     {
       "id": "590292412",
@@ -1551,7 +1524,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590292412&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:14.699Z"
+      "verifiedAt": "2026-09-25T21:57:51.392Z"
     },
     {
       "id": "590284164",
@@ -1580,7 +1553,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590284164&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:14.704Z"
+      "verifiedAt": "2026-09-25T21:57:51.559Z"
     },
     {
       "id": "589824812",
@@ -1610,7 +1583,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=589824812&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:14.946Z"
+      "verifiedAt": "2026-09-25T21:57:51.708Z"
     },
     {
       "id": "589797410",
@@ -1640,13 +1613,13 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=589797410&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T18:56:14.988Z"
+      "verifiedAt": "2026-09-25T21:57:51.821Z"
     }
   ],
-  "checkedAt": "2026-09-25T18:56:19.116Z",
+  "checkedAt": "2026-09-25T21:57:55.384Z",
   "pagesRead": 12,
   "errors": 0,
-  "platformVerified": 26,
+  "platformVerified": 25,
   "source": "公开优惠流发现 + 电商平台落地链接二次核验",
   "sources": [
     {
@@ -1655,8 +1628,8 @@
       "url": "https://m.tuihaowu.com/cuxiao.aspx",
       "status": "live",
       "label": "已读取 12/12 页真实优惠",
-      "checkedAt": "2026-09-25T18:56:19.113Z",
-      "itemCount": 57
+      "checkedAt": "2026-09-25T21:57:55.381Z",
+      "itemCount": 56
     },
     {
       "id": "taobao",
@@ -1665,10 +1638,10 @@
       "marker": {},
       "status": "authorization_required",
       "label": "公开页未返回商品结构；稳定接入需开放平台授权",
-      "checkedAt": "2026-09-25T18:56:15.806Z",
+      "checkedAt": "2026-09-25T21:57:52.606Z",
       "itemCount": 0,
       "httpStatus": 200,
-      "verifiedCount": 4
+      "verifiedCount": 3
     },
     {
       "id": "tmall",
@@ -1677,10 +1650,10 @@
       "marker": {},
       "status": "authorization_required",
       "label": "公开页未返回商品结构；稳定接入需开放平台授权",
-      "checkedAt": "2026-09-25T18:56:15.807Z",
+      "checkedAt": "2026-09-25T21:57:52.607Z",
       "itemCount": 0,
       "httpStatus": 200,
-      "verifiedCount": 27
+      "verifiedCount": 28
     },
     {
       "id": "jd",
@@ -1689,10 +1662,10 @@
       "marker": {},
       "status": "blocked",
       "label": "公开搜索触发风控；保留平台落地页核验",
-      "checkedAt": "2026-09-25T18:56:15.807Z",
+      "checkedAt": "2026-09-25T21:57:52.607Z",
       "itemCount": 0,
       "httpStatus": 200,
-      "verifiedCount": 26
+      "verifiedCount": 25
     },
     {
       "id": "pdd",
@@ -1701,7 +1674,7 @@
       "marker": {},
       "status": "blocked",
       "label": "公开搜索触发风控；保留平台落地页核验",
-      "checkedAt": "2026-09-25T18:56:16.949Z",
+      "checkedAt": "2026-09-25T21:57:53.826Z",
       "itemCount": 0,
       "httpStatus": 200,
       "verifiedCount": 0
@@ -1713,7 +1686,7 @@
       "marker": {},
       "status": "authorization_required",
       "label": "公开页未返回商品结构；稳定接入需开放平台授权",
-      "checkedAt": "2026-09-25T18:56:17.036Z",
+      "checkedAt": "2026-09-25T21:57:53.829Z",
       "itemCount": 0,
       "httpStatus": 200,
       "verifiedCount": 0
@@ -1725,7 +1698,7 @@
       "marker": {},
       "status": "blocked",
       "label": "公开搜索触发风控；保留平台落地页核验",
-      "checkedAt": "2026-09-25T18:56:17.905Z",
+      "checkedAt": "2026-09-25T21:57:54.586Z",
       "itemCount": 0,
       "httpStatus": 202,
       "verifiedCount": 0
