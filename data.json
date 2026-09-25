@@ -28,7 +28,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:32.251Z"
+      "verifiedAt": "2026-09-25T18:56:05.609Z"
     },
     {
       "id": "591072721",
@@ -57,7 +57,179 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:32.252Z"
+      "verifiedAt": "2026-09-25T18:56:05.610Z"
+    },
+    {
+      "id": "591495188",
+      "title": "舍得 品味舍得 52°浓香型白酒 538ml×2瓶",
+      "priceText": "479.25元",
+      "price": 479.25,
+      "payablePrice": 479.25,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "09-26 00:17",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/210547/36/47604/458662/673400c0F4e0e991a/90dce114346c9866.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591495188&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.jd.com/",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-09-25T18:56:05.610Z"
+    },
+    {
+      "id": "591492484",
+      "title": "千岛湖啤酒 500ml×24罐 整箱装 8度",
+      "priceText": "47.58元",
+      "price": 47.58,
+      "payablePrice": 47.58,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "09-25 23:59",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01xyvg3r1mIuY1wVYE0_!!6000000004932-2-yinhe.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591492484&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591492484&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:05.610Z"
+    },
+    {
+      "id": "591490756",
+      "title": "雪花啤酒 沈阳啤酒 11度 500ml×3罐",
+      "priceText": "9.9元",
+      "price": 9.9,
+      "payablePrice": 9.9,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "09-25 23:28",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/498344/14/14832/103875/6a8fecefF6b033e49/0083320320c6f5f9.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591490756&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.jd.com/",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-09-25T18:56:05.610Z"
+    },
+    {
+      "id": "591488439",
+      "title": "88VIP：山西杏花村 汾酒青花20 53度 白酒礼盒装 500ml×2瓶+凑单",
+      "priceText": "717.67元+80.16元淘金币（淘金币界面加购，凑单）",
+      "price": 717.67,
+      "payablePrice": 717.67,
+      "unitPrice": null,
+      "platform": "天猫",
+      "mall": "天猫商城",
+      "published": "09-25 22:59",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01dBP1yO1TybtPdsywh_!!6000000002451-2-yinhe.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591488439&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需 88VIP",
+        "需使用淘金币",
+        "需凑单"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591488439&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:05.610Z"
+    },
+    {
+      "id": "591488260",
+      "title": "88VIP：剑南春 金剑南 K6 双支礼盒 52度 白酒 500mL+凑单",
+      "priceText": "218.29元+20.15元淘金币（淘金币界面加购，凑单）",
+      "price": 218.29,
+      "payablePrice": 218.29,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "09-25 22:53",
+      "image": "https://img.alicdn.com/i2/725677994/O1CN01QC1AFo28vJJLqvpZP_!!725677994.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591488260&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需 88VIP",
+        "需使用淘金币",
+        "需凑单"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591488260&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:07.956Z"
+    },
+    {
+      "id": "591488181",
+      "title": "泸州老窖特曲晶彩 52度浓香型白酒 500ml×2瓶",
+      "priceText": "356.33元+41.67元淘金币(淘金币界面下单)",
+      "price": 356.33,
+      "payablePrice": 356.33,
+      "unitPrice": null,
+      "platform": "天猫",
+      "mall": "天猫商城",
+      "published": "09-25 22:51",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01ctbBrf1aufoOPQicD_!!6000000003390-0-yinhe.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591488181&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591488181&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:07.989Z"
     },
     {
       "id": "591487405",
@@ -84,7 +256,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:32.252Z"
+      "verifiedAt": "2026-09-25T18:56:08.268Z"
     },
     {
       "id": "591485785",
@@ -111,7 +283,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:32.252Z"
+      "verifiedAt": "2026-09-25T18:56:08.269Z"
     },
     {
       "id": "591485662",
@@ -138,7 +310,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:32.252Z"
+      "verifiedAt": "2026-09-25T18:56:08.556Z"
     },
     {
       "id": "591482656",
@@ -165,7 +337,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:32.253Z"
+      "verifiedAt": "2026-09-25T18:56:08.672Z"
     },
     {
       "id": "591482216",
@@ -192,7 +364,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:34.119Z"
+      "verifiedAt": "2026-09-25T18:56:08.788Z"
     },
     {
       "id": "591481883",
@@ -223,7 +395,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591481883&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:34.132Z"
+      "verifiedAt": "2026-09-25T18:56:08.850Z"
     },
     {
       "id": "591480922",
@@ -253,7 +425,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591480922&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:34.384Z"
+      "verifiedAt": "2026-09-25T18:56:09.093Z"
     },
     {
       "id": "591480216",
@@ -284,7 +456,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591480216&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:34.567Z"
+      "verifiedAt": "2026-09-25T18:56:09.098Z"
     },
     {
       "id": "591477558",
@@ -315,7 +487,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591477558&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:34.724Z"
+      "verifiedAt": "2026-09-25T18:56:09.411Z"
     },
     {
       "id": "591475570",
@@ -346,7 +518,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591475570&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:34.900Z"
+      "verifiedAt": "2026-09-25T18:56:09.545Z"
     },
     {
       "id": "591475503",
@@ -375,7 +547,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:35.174Z"
+      "verifiedAt": "2026-09-25T18:56:09.618Z"
     },
     {
       "id": "591473820",
@@ -406,7 +578,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591473820&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:35.312Z"
+      "verifiedAt": "2026-09-25T18:56:09.667Z"
     },
     {
       "id": "591472559",
@@ -433,7 +605,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591472559&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:35.478Z"
+      "verifiedAt": "2026-09-25T18:56:09.961Z"
     },
     {
       "id": "591467175",
@@ -460,7 +632,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:35.719Z"
+      "verifiedAt": "2026-09-25T18:56:09.972Z"
     },
     {
       "id": "591463084",
@@ -491,7 +663,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591463084&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:35.983Z"
+      "verifiedAt": "2026-09-25T18:56:10.247Z"
     },
     {
       "id": "591462681",
@@ -522,7 +694,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591462681&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:36.438Z"
+      "verifiedAt": "2026-09-25T18:56:10.383Z"
     },
     {
       "id": "591452671",
@@ -551,7 +723,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:36.524Z"
+      "verifiedAt": "2026-09-25T18:56:10.501Z"
     },
     {
       "id": "591450994",
@@ -580,7 +752,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591450994&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:36.525Z"
+      "verifiedAt": "2026-09-25T18:56:10.549Z"
     },
     {
       "id": "591450711",
@@ -609,7 +781,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591450711&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:36.727Z"
+      "verifiedAt": "2026-09-25T18:56:10.792Z"
     },
     {
       "id": "591445894",
@@ -636,7 +808,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591445894&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:36.759Z"
+      "verifiedAt": "2026-09-25T18:56:10.805Z"
     },
     {
       "id": "591445340",
@@ -663,7 +835,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591445340&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:37.278Z"
+      "verifiedAt": "2026-09-25T18:56:11.163Z"
     },
     {
       "id": "591444089",
@@ -690,372 +862,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:37.283Z"
-    },
-    {
-      "id": "591443265",
-      "title": "黄山牌 黄山大曲 52° 浓香型白酒 500ml×2",
-      "priceText": "49.9元",
-      "price": 49.9,
-      "payablePrice": 49.9,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东商城",
-      "published": "09-25 16:59",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/40089/20/24691/956982/641a6bacFe1610676/17fb9606ab35a8a4.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591443265&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:37.589Z"
-    },
-    {
-      "id": "591438566",
-      "title": "再降价、PLUS：青岛啤酒 鸿运当头 啤酒礼盒装 355mL×12瓶",
-      "priceText": "83元",
-      "price": 83,
-      "payablePrice": 83,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东商城",
-      "published": "09-25 16:41",
-      "image": "https://zhekou-background.manmanbuy.com/image/baoliao/bc55d8746828db9a3a54fcc6ac6622e8/20260925164107_6abf6656-38b4-487a-a784-e03944eea7c0.jpg?x-oss-process=image%2Fformat%2Cjpg%2Fquality%2Cq_80",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591438566&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:37.724Z"
-    },
-    {
-      "id": "591432637",
-      "title": "人头马 CLUB 干邑白兰地 500ml 星夜派对限量版",
-      "priceText": "319元（需首购）",
-      "price": 319,
-      "payablePrice": 319,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 16:05",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/519766/32/2244/100052/6a9a87c5F0c17cd84/0083320320b3d09c.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591432637&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "限首购"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:38.025Z"
-    },
-    {
-      "id": "591432198",
-      "title": "西凤 55°凤香型白酒 500mL×12瓶 绿瓶陕西版",
-      "priceText": "489.6元",
-      "price": 489.6,
-      "payablePrice": 489.6,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 16:44",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/240579/29/11439/110049/6669d997Fee51f847/6813a8a0cc97b7f1.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591432198&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:38.082Z"
-    },
-    {
-      "id": "591432191",
-      "title": "五粮液 川红非遗特级工夫红茶 250g礼盒",
-      "priceText": "64.4元+19.6元淘金币",
-      "price": 64.4,
-      "payablePrice": 64.4,
-      "unitPrice": null,
-      "platform": "天猫",
-      "mall": "天猫旗舰店",
-      "published": "09-25 16:00",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01FZqItZ1ML2L5O8FHt_!!6000000001417-0-yinhe.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591432191&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "优惠线报活跃；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591432191&f=weixinlist&mmb=mmbmobile",
-      "verificationStatus": "source_only",
-      "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:38.387Z"
-    },
-    {
-      "id": "591431922",
-      "title": "PLUS：洋河 梦之蓝M6 52度500ml*2瓶 礼盒装 浓香型白酒",
-      "priceText": "976.06元（含国补）",
-      "price": 976.06,
-      "payablePrice": 976.06,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 15:54",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/166257/37/47484/66012/66e3a18aF6191df1c/6a1e4ec5165903db.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591431922&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:38.476Z"
-    },
-    {
-      "id": "591427727",
-      "title": "需首购礼金:西凤酒 臻酒 浓香型白酒 50度 500mL×2瓶 礼盒装",
-      "priceText": "186元",
-      "price": 186,
-      "payablePrice": 186,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 15:43",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/521269/18/3189/73099/6a9f70e6F2d66f2c1/0083320320f7bd8d.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591427727&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "限首购"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:38.528Z"
-    },
-    {
-      "id": "591427362",
-      "title": "再降价：习酒 经典黑金 酱香型白酒 53度 500mL×6瓶 礼盒装",
-      "priceText": "1479.09元包邮",
-      "price": 1479.09,
-      "payablePrice": 1479.09,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 16:44",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/379157/20/18546/85630/69533766Fc5c1e698/1bf767ed48e3b4d5.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591427362&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:38.845Z"
-    },
-    {
-      "id": "591425888",
-      "title": "再降价，需首购礼金:西凤酒 1956出口型 45度凤香型白酒 150mL×6瓶",
-      "priceText": "178元",
-      "price": 178,
-      "payablePrice": 178,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 15:39",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/503951/23/1604/191791/6a7beff4Fdbcffac9/008332032028f80f.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591425888&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "限首购"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:39.475Z"
-    },
-    {
-      "id": "591425668",
-      "title": "天降礼金、88VIP：泸州老窖 六年窖头曲 52度 浓香型白酒 事事如意礼盒 500ml×4瓶+凑单",
-      "priceText": "216.95元+29元淘金币（淘金币界面加购，凑单）",
-      "price": 216.95,
-      "payablePrice": 216.95,
-      "unitPrice": null,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "09-25 15:37",
-      "image": "https://img.alicdn.com/i3/725677994/O1CN01v5i7jQ28vJHxXqWCl_!!725677994.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591425668&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "需 88VIP",
-        "需使用淘金币",
-        "需凑单"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "优惠线报活跃；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591425668&f=weixinlist&mmb=mmbmobile",
-      "verificationStatus": "source_only",
-      "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:39.610Z"
-    },
-    {
-      "id": "591425055",
-      "title": "再降价，需首购礼金:西凤酒 臻酒三钻 浓香型白酒 50度 500mL×2瓶",
-      "priceText": "126元",
-      "price": 126,
-      "payablePrice": 126,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 15:33",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/526903/28/1857/460736/6aa4f48bF4e53cdee/00833203208cf4f9.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591425055&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "限首购"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:40.051Z"
-    },
-    {
-      "id": "591420414",
-      "title": "PLUS：五粮液 普五八代 好事成双礼盒 52°浓香型 500mL×2瓶",
-      "priceText": "1701.01元",
-      "price": 1701.01,
-      "payablePrice": 1701.01,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 15:04",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/108206/20/28970/498318/62a97484Ee7b97a89/bbbe69baae66e452.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591420414&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:40.179Z"
-    },
-    {
-      "id": "591415776",
-      "title": "PLUS：青岛啤酒 经典 罐装啤酒 550ml×18罐",
-      "priceText": "51.48元",
-      "price": 51.48,
-      "payablePrice": 51.48,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 15:33",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/103605/35/32859/207071/64c0d797Fb18e0803/ab5b5ce5088730d1.png?x-oss-process=image%2Fformat%2Cjpg%2Fresize%2Cw_500%2Fquality%2Cq_80",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591415776&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:40.184Z"
+      "verifiedAt": "2026-09-25T18:56:11.305Z"
     },
     {
       "id": "591402378",
@@ -1084,7 +891,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:40.234Z"
+      "verifiedAt": "2026-09-25T18:56:11.351Z"
     },
     {
       "id": "591397020",
@@ -1111,7 +918,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:40.337Z"
+      "verifiedAt": "2026-09-25T18:56:11.412Z"
     },
     {
       "id": "591396943",
@@ -1141,7 +948,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:40.941Z"
+      "verifiedAt": "2026-09-25T18:56:11.614Z"
     },
     {
       "id": "591396784",
@@ -1168,7 +975,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:41.029Z"
+      "verifiedAt": "2026-09-25T18:56:11.619Z"
     },
     {
       "id": "591358508",
@@ -1195,36 +1002,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:41.101Z"
-    },
-    {
-      "id": "591349770",
-      "title": "郎酒 郎牌郎酒 2021年专属版 53度酱香型白酒 500mL 单瓶装",
-      "priceText": "175.73元（需首购）",
-      "price": 175.73,
-      "payablePrice": 175.73,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 15:05",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/301092/35/15777/108265/6854efddF16034eac/94eae246759871db.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591349770&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "限首购"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:41.124Z"
+      "verifiedAt": "2026-09-25T18:56:12.012Z"
     },
     {
       "id": "591289844",
@@ -1251,7 +1029,68 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:41.222Z"
+      "verifiedAt": "2026-09-25T18:56:12.147Z"
+    },
+    {
+      "id": "591236949",
+      "title": "天降礼金、88VIP：1664 白啤+特醇+乐堡+红乌苏啤酒 500ml*16罐",
+      "priceText": "45.53元（需凑单）",
+      "price": 45.53,
+      "payablePrice": 45.53,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "09-26 02:19",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01MPIUsz1EKZ0jXxqhG_!!6000000000333-0-yinhe.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591236949&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需 88VIP",
+        "需凑单"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591236949&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:12.186Z"
+    },
+    {
+      "id": "591214634",
+      "title": "天降礼金、88VIP：天湖 9度原浆拉格啤酒 500ml*12听*1箱",
+      "priceText": "17.15元+2.46元淘金币（需凑单）",
+      "price": 17.15,
+      "payablePrice": 17.15,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "09-26 02:19",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN010abyNx21spfgnHrzi_!!6000000007041-2-yinhe.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591214634&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需 88VIP",
+        "需使用淘金币",
+        "需凑单"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591214634&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:12.240Z"
     },
     {
       "id": "591191636",
@@ -1281,7 +1120,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591191636&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:41.347Z"
+      "verifiedAt": "2026-09-25T18:56:12.451Z"
     },
     {
       "id": "591183002",
@@ -1310,7 +1149,63 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591183002&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:41.724Z"
+      "verifiedAt": "2026-09-25T18:56:12.469Z"
+    },
+    {
+      "id": "591144103",
+      "title": "怀庄 大曲坤沙窖藏 53° 酱香型白酒 500ml",
+      "priceText": "15.7元",
+      "price": 15.7,
+      "payablePrice": 15.7,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东商城",
+      "published": "09-26 01:36",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/239862/12/11988/954095/6670edbaF518c27fc/4e0a720b4f6ea598.png?x-oss-process=image%2Fformat%2Cjpg%2Fresize%2Cw_500%2Fquality%2Cq_80",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591144103&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.jd.com/",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-09-25T18:56:12.880Z"
+    },
+    {
+      "id": "591137456",
+      "title": "五粮液 普五八代 52°浓香型白酒 500mL×2瓶",
+      "priceText": "1590元（需首购）",
+      "price": 1590,
+      "payablePrice": 1590,
+      "unitPrice": null,
+      "platform": "京东",
+      "mall": "京东自营",
+      "published": "09-25 23:27",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/279085/31/21321/66421/6801ec63F14f05a83/9a9ebd6777169e27.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591137456&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "限首购"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.jd.com/",
+      "verificationStatus": "platform_reached",
+      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
+      "verifiedAt": "2026-09-25T18:56:12.991Z"
     },
     {
       "id": "591131532",
@@ -1337,7 +1232,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:41.826Z"
+      "verifiedAt": "2026-09-25T18:56:13.025Z"
     },
     {
       "id": "591131011",
@@ -1367,7 +1262,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591131011&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:41.867Z"
+      "verifiedAt": "2026-09-25T18:56:13.295Z"
     },
     {
       "id": "591130638",
@@ -1394,93 +1289,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:42.326Z"
-    },
-    {
-      "id": "591127117",
-      "title": "施泰克 9度原浆啤酒 500ml×12听×2箱 浑浊型德式",
-      "priceText": "40.8元+1.98元金币（详情页超级补贴下单）",
-      "price": 40.8,
-      "payablePrice": 40.8,
-      "unitPrice": null,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "09-25 15:04",
-      "image": "https://img.alicdn.com/bao/uploaded/O1CN01nrtyit1RvjqFD9BP5_!!6000000002174-2-yinhe.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591127117&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "优惠线报活跃；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591127117&f=weixinlist&mmb=mmbmobile",
-      "verificationStatus": "source_only",
-      "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:42.509Z"
-    },
-    {
-      "id": "591109529",
-      "title": "郎酒 红花郎15 酱香型白酒 53度 500ml*1瓶 +凑单",
-      "priceText": "298.07元+39.48元淘金币（需凑单）",
-      "price": 298.07,
-      "payablePrice": 298.07,
-      "unitPrice": null,
-      "platform": "天猫超市",
-      "mall": "天猫超市",
-      "published": "09-25 15:03",
-      "image": "https://img.alicdn.com/i4/6000000007922/O1CN01wAVYNV28OKkBs6Jyw_!!6000000007922-0-at.jpg",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591109529&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "需使用淘金币",
-        "需凑单"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "优惠线报活跃；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591109529&f=weixinlist&mmb=mmbmobile",
-      "verificationStatus": "source_only",
-      "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:42.581Z"
-    },
-    {
-      "id": "591106469",
-      "title": "再降价：五粮液 尖庄高光 52°浓香型白酒 500mL×6瓶",
-      "priceText": "274.28元（含国补、需首购）",
-      "price": 274.28,
-      "payablePrice": 274.28,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 16:19",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/228736/12/13727/115982/65d442a0F44b612a4/4845e56b1b4e565d.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=591106469&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [
-        "限首购"
-      ],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:42.653Z"
+      "verifiedAt": "2026-09-25T18:56:13.308Z"
     },
     {
       "id": "591041256",
@@ -1510,7 +1319,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=591041256&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:42.804Z"
+      "verifiedAt": "2026-09-25T18:56:13.495Z"
     },
     {
       "id": "590973510",
@@ -1541,61 +1350,37 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590973510&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:43.024Z"
+      "verifiedAt": "2026-09-25T18:56:13.704Z"
     },
     {
-      "id": "590694126",
-      "title": "燕大师 精酿啤酒 500mL×12罐 纯麦小麦原浆",
-      "priceText": "28.29元",
-      "price": 28.29,
-      "payablePrice": 28.29,
+      "id": "590844766",
+      "title": "88VIP：古井贡酒 年份原浆献礼版 50度浓香型白酒 500mL×2瓶",
+      "priceText": "122.11元好价适合中秋送礼（需凑单）",
+      "price": 122.11,
+      "payablePrice": 122.11,
       "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 15:05",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/402119/36/11564/60856/69b3bb38Fd70d8b32/00833203205c70c3.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=590694126&f=weixinlist&mmb=mmbmobile",
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "09-25 23:10",
+      "image": "https://img.alicdn.com/i2/725677994/O1CN01K60HqB28vJGfJEPvl_!!725677994.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=590844766&f=weixinlist&mmb=mmbmobile",
       "discoverySource": "慢慢买公开优惠流",
       "sourceKind": "deal_aggregator",
       "isZero": false,
       "isRebateZero": false,
       "zeroType": null,
       "isTrial": false,
-      "requirements": [],
+      "requirements": [
+        "需 88VIP",
+        "需凑单"
+      ],
       "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
       "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:43.140Z"
-    },
-    {
-      "id": "590634190",
-      "title": "泸州老窖 特曲80版 浓香型 52度500ml单瓶装",
-      "priceText": "441.72元",
-      "price": 441.72,
-      "payablePrice": 441.72,
-      "unitPrice": null,
-      "platform": "京东",
-      "mall": "京东自营",
-      "published": "09-25 15:03",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/458385/38/11640/63676/6a3904ffF58e14f0e/0083320320f1291e.png",
-      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=590634190&f=weixinlist&mmb=mmbmobile",
-      "discoverySource": "慢慢买公开优惠流",
-      "sourceKind": "deal_aggregator",
-      "isZero": false,
-      "isRebateZero": false,
-      "zeroType": null,
-      "isTrial": false,
-      "requirements": [],
-      "availability": "unknown",
-      "availabilityLabel": "已到达京东落地页；未公开精确库存",
-      "stockCount": null,
-      "checkoutUrl": "https://m.jd.com/",
-      "verificationStatus": "platform_reached",
-      "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:43.331Z"
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590844766&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:13.836Z"
     },
     {
       "id": "590623816",
@@ -1625,7 +1410,7 @@
       "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590623816&f=weixinlist&mmb=mmbmobile",
       "verificationStatus": "source_only",
       "verificationLabel": "未解析到平台直达链接",
-      "verifiedAt": "2026-09-25T14:46:43.394Z"
+      "verifiedAt": "2026-09-25T18:56:13.867Z"
     },
     {
       "id": "590613546",
@@ -1652,7 +1437,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:43.416Z"
+      "verifiedAt": "2026-09-25T18:56:14.116Z"
     },
     {
       "id": "590607011",
@@ -1679,7 +1464,7 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:43.553Z"
+      "verifiedAt": "2026-09-25T18:56:14.150Z"
     },
     {
       "id": "590606250",
@@ -1708,13 +1493,160 @@
       "checkoutUrl": "https://m.jd.com/",
       "verificationStatus": "platform_reached",
       "verificationLabel": "已核验可跳转至京东；未公开精确库存",
-      "verifiedAt": "2026-09-25T14:46:44.190Z"
+      "verifiedAt": "2026-09-25T18:56:14.335Z"
+    },
+    {
+      "id": "590500729",
+      "title": "闭眼买：洋河 梦之蓝M3 52度 绵柔浓香白酒 500mL×2礼盒",
+      "priceText": "625.3元+32.7元淘金币",
+      "price": 625.3,
+      "payablePrice": 625.3,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "09-25 21:29",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01NGJdcv1SEWGo230bo_!!6000000002215-2-yinhe.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=590500729&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590500729&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:14.557Z"
+    },
+    {
+      "id": "590292412",
+      "title": "88VIP：水晶剑南春 52度浓香型白酒 558ml×1瓶",
+      "priceText": "375.39元",
+      "price": 375.39,
+      "payablePrice": 375.39,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "09-25 21:29",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01sGx7rI1IOSTJMmfqe_!!6000000000883-2-yinhe.png",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=590292412&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需 88VIP"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590292412&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:14.699Z"
+    },
+    {
+      "id": "590284164",
+      "title": "珍酒 第三代珍十五 酱香型白酒 53度 500ml×2瓶",
+      "priceText": "500.45元+39.55元淘金币(淘金币界面下单)",
+      "price": 500.45,
+      "payablePrice": 500.45,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "09-25 21:33",
+      "image": "https://img.alicdn.com/i1/725677994/O1CN01FgJGgJ28vJGcdt94S_!!725677994.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=590284164&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=590284164&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:14.704Z"
+    },
+    {
+      "id": "589824812",
+      "title": "喜力 啤酒 500ml×12瓶 整箱装 全麦酿造",
+      "priceText": "60.78元+8.64元淘金币（需凑单）",
+      "price": 60.78,
+      "payablePrice": 60.78,
+      "unitPrice": null,
+      "platform": "天猫",
+      "mall": "天猫旗舰店",
+      "published": "09-25 23:27",
+      "image": "https://img.alicdn.com/bao/uploaded/O1CN01eC81ND26a7XqDPWdh_!!6000000007677-0-yinhe.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=589824812&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需使用淘金币",
+        "需凑单"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=589824812&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:14.946Z"
+    },
+    {
+      "id": "589797410",
+      "title": "88VIP：XI LIQUOR/习酒 金钻习酒 53° 酱香型 500ml 2瓶",
+      "priceText": "290.23元+38.89元淘金币",
+      "price": 290.23,
+      "payablePrice": 290.23,
+      "unitPrice": null,
+      "platform": "天猫超市",
+      "mall": "天猫超市",
+      "published": "09-25 21:29",
+      "image": "https://img.alicdn.com/i3/725677994/O1CN01wpALf328vJFLkdS2I_!!725677994.jpg",
+      "sourceUrl": "https://m.tuihaowu.com/d.aspx?id=589797410&f=weixinlist&mmb=mmbmobile",
+      "discoverySource": "慢慢买公开优惠流",
+      "sourceKind": "deal_aggregator",
+      "isZero": false,
+      "isRebateZero": false,
+      "zeroType": null,
+      "isTrial": false,
+      "requirements": [
+        "需 88VIP",
+        "需使用淘金币"
+      ],
+      "availability": "unknown",
+      "availabilityLabel": "优惠线报活跃；未公开精确库存",
+      "stockCount": null,
+      "checkoutUrl": "https://m.tuihaowu.com/d.aspx?id=589797410&f=weixinlist&mmb=mmbmobile",
+      "verificationStatus": "source_only",
+      "verificationLabel": "未解析到平台直达链接",
+      "verifiedAt": "2026-09-25T18:56:14.988Z"
     }
   ],
-  "checkedAt": "2026-09-25T14:46:49.008Z",
+  "checkedAt": "2026-09-25T18:56:19.116Z",
   "pagesRead": 12,
   "errors": 0,
-  "platformVerified": 37,
+  "platformVerified": 26,
   "source": "公开优惠流发现 + 电商平台落地链接二次核验",
   "sources": [
     {
@@ -1723,8 +1655,8 @@
       "url": "https://m.tuihaowu.com/cuxiao.aspx",
       "status": "live",
       "label": "已读取 12/12 页真实优惠",
-      "checkedAt": "2026-09-25T14:46:49.006Z",
-      "itemCount": 60
+      "checkedAt": "2026-09-25T18:56:19.113Z",
+      "itemCount": 57
     },
     {
       "id": "taobao",
@@ -1733,7 +1665,7 @@
       "marker": {},
       "status": "authorization_required",
       "label": "公开页未返回商品结构；稳定接入需开放平台授权",
-      "checkedAt": "2026-09-25T14:46:44.978Z",
+      "checkedAt": "2026-09-25T18:56:15.806Z",
       "itemCount": 0,
       "httpStatus": 200,
       "verifiedCount": 4
@@ -1745,10 +1677,10 @@
       "marker": {},
       "status": "authorization_required",
       "label": "公开页未返回商品结构；稳定接入需开放平台授权",
-      "checkedAt": "2026-09-25T14:46:44.979Z",
+      "checkedAt": "2026-09-25T18:56:15.807Z",
       "itemCount": 0,
       "httpStatus": 200,
-      "verifiedCount": 19
+      "verifiedCount": 27
     },
     {
       "id": "jd",
@@ -1757,10 +1689,10 @@
       "marker": {},
       "status": "blocked",
       "label": "公开搜索触发风控；保留平台落地页核验",
-      "checkedAt": "2026-09-25T14:46:44.980Z",
+      "checkedAt": "2026-09-25T18:56:15.807Z",
       "itemCount": 0,
       "httpStatus": 200,
-      "verifiedCount": 37
+      "verifiedCount": 26
     },
     {
       "id": "pdd",
@@ -1769,7 +1701,7 @@
       "marker": {},
       "status": "blocked",
       "label": "公开搜索触发风控；保留平台落地页核验",
-      "checkedAt": "2026-09-25T14:46:47.423Z",
+      "checkedAt": "2026-09-25T18:56:16.949Z",
       "itemCount": 0,
       "httpStatus": 200,
       "verifiedCount": 0
@@ -1781,7 +1713,7 @@
       "marker": {},
       "status": "authorization_required",
       "label": "公开页未返回商品结构；稳定接入需开放平台授权",
-      "checkedAt": "2026-09-25T14:46:47.486Z",
+      "checkedAt": "2026-09-25T18:56:17.036Z",
       "itemCount": 0,
       "httpStatus": 200,
       "verifiedCount": 0
@@ -1793,7 +1725,7 @@
       "marker": {},
       "status": "blocked",
       "label": "公开搜索触发风控；保留平台落地页核验",
-      "checkedAt": "2026-09-25T14:46:47.493Z",
+      "checkedAt": "2026-09-25T18:56:17.905Z",
       "itemCount": 0,
       "httpStatus": 202,
       "verifiedCount": 0
